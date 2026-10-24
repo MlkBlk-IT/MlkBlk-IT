@@ -1,13 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:1a0505,100:00ff9c&height=160&section=header&text=MALIK&fontSize=60&fontColor=e10600&fontAlignY=34&desc=%E2%9A%A1%20AI%20Builder%20%C2%B7%20Agents%20%C2%B7%20MCP%20%C2%B7%20Local%20LLMs&descAlignY=55&descSize=16&descColor=00ff9c&animation=fadeIn" width="100%" alt="MALIK — AI Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:1a0505,100:00ff9c&height=170&section=header&text=MALIK&fontSize=62&fontColor=e10600&fontAlignY=32&desc=%E2%9A%A1%20AI%20Builder%20%C2%B7%20MCP%20Servers%20%C2%B7%20Agents%20%C2%B7%20Local%20LLMs&descAlignY=56&descSize=16&descColor=00ff9c&animation=fadeIn" width="100%" alt="MALIK — AI Builder" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00FF9C&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+%E2%86%92+AI+builder+%7C+DEP+Soutien+Informatique+%7C+Autodidacte;%24+uptime+%E2%86%92+self-taught+since+May+2026+%F0%9F%9B%A0%EF%B8%8F;%24+constraints+%E2%86%92+100%25+CPU+%C2%B7+0+GPU+%C2%B7+0+API+payante;%24+philosophy+%E2%86%92+%22The+disk+is+your+proof.%22" alt="typing" />
 
+<br/>
+
+## ⚠️ RENOMMAGE · RENAME
+
+<a href="https://github.com/MlkBlk-IT/icycache">
+  <img src="https://img.shields.io/badge/%F0%9F%94%B4_Mcp--CacheForge_%E2%9E%9C_%F0%9F%9F%A2_ICYCache-M%C3%8AME_PROJET_%C2%B7_NOUVEAU_NOM-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="Mcp-CacheForge renommé en IcyCache" />
+</a>
+
+### 🔴 `Mcp-CacheForge` &nbsp;➡️&nbsp; 🟢 [`IcyCache`](https://github.com/MlkBlk-IT/icycache)
+
+**« I see cache, I burn cache »** — le proxy LLM à cache sémantique change de nom.
+Les anciens liens `Mcp-CacheForge` **redirigent automatiquement** vers **IcyCache**.
+
+<br/>
+
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=Followers&style=for-the-badge&color=e10600&labelColor=0d0d0d&logo=github" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/Projects-7-00ff9c?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=0d0d0d" /></a>
-<img src="https://img.shields.io/badge/CPUs-32_GB_RAM-e10600?style=for-the-badge&logo=amd&logoColor=e10600&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/GPUs-0_%E2%80%94_CPU_only-00ff9c?style=for-the-badge&logoColor=00ff9c&labelColor=0d0d0d" />
+<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=PROFILE+VIEWS&style=for-the-badge&color=00ff9c&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Open%20to-INTERNSHIP%20%2F%20STAGE-e10600?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Local%20AI-100%25%20CPU%20%C2%B7%200%20GPU-00ff9c?style=for-the-badge&labelColor=0d0d0d" />
 
 <br/>
 
@@ -16,6 +32,15 @@
 </div>
 
 ---
+
+## ⭐ Featured — `cat ~/flagships`
+
+| | Project | Why it matters |
+|--|---------|----------------|
+| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1114 rules), 4 MCP tools, live metrics dashboard. Cuts token cost & latency on CPU-only setups. |
+| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Moves LLM context **out of the prompt losslessly** (zero summarization). SQLite + FTS5, 13 MCP tools. |
+
+> If you like CPU-first, no-paid-API AI engineering → **⭐ star the repos** and **follow**.
 
 ## 🧠 `what_i_do()` — English
 
@@ -32,14 +57,27 @@ IT student (DEP Soutien Informatique, EMICA Montréal) — but **AI is the direc
 | 🔐 **Security** | Hardening · Sysmon/DFIR · forensic audits · Active Directory |
 | 🎓 **Studying** | CompTIA Network+ N10-009 · Security+ SY0-701 · CCNA |
 
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyper--V-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 </div>
 
 ## 🚀 Projects — `ls ~/builds`
 
 | | Project | Pitch | Stack |
 |--|---------|-------|-------|
+| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1114 rules), MCP gateway, metrics dashboard. | Python · FastAPI · SQLite |
 | 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Moves LLM context out of the prompt **losslessly** (zero summary). SQLite + FTS5, 13 MCP tools. | Python · FastMCP · SQLite |
-| 🔴 | [**Mcp-CacheForge**](https://github.com/MlkBlk-IT/Mcp-CacheForge) | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1114 rules), metrics dashboard. | Python · FastAPI · SQLite |
 | 🟢 | [**Mcp-QadGraph**](https://github.com/MlkBlk-IT/Mcp-QadGraph) | **3D similarity dashboard** for Qdrant + read-only MCP server (9 tools). Python stdlib only. | JS · Python · Qdrant |
 | 🟢 | [**OpenClaw**](https://github.com/MlkBlk-IT/OpenClaw) | Hybrid local+cloud agentic architecture — V1 (tech debt) → V2 (clean slate, machine contracts). | LM Studio · Agents |
 | ⚪ | [**LoFT**](https://github.com/MlkBlk-IT/LoFT) | CPU LoRA fine-tuning (Qwen3) with dataset distillation + hallucination test runs. | PyTorch · PEFT |
@@ -66,12 +104,20 @@ IT student (DEP Soutien Informatique, EMICA Montréal) — but **AI is the direc
 
 Étudiant en DEP Soutien Informatique (EMICA, Montréal) — mais **l'IA est la direction** : agents, serveurs MCP, systèmes LLM locaux. Tout tourne **en CPU, sans API payante**. Premier ordi : **mai 2026**. Autodidacte — j'apprends en construisant et en mesurant.
 
+<div align="center">
+
+### ⚠️ `Mcp-CacheForge` a été renommé → [**IcyCache**](https://github.com/MlkBlk-IT/icycache)
+
+Même projet, nouveau nom — **les anciens liens redirigent automatiquement**.
+
+</div>
+
 ### 🚀 Projets
 
 | | Projet | Pitch | Stack |
 |--|--------|-------|-------|
+| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Proxy LLM local avec **cache sémantique** — normalisation Aho-Corasick (1114 règles), gateway MCP, dashboard de métriques. | Python · FastAPI |
 | 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Sort le contexte LLM du prompt **sans perte** (zéro résumé). SQLite + FTS5, 13 outils MCP. | Python · FastMCP |
-| 🔴 | [**Mcp-CacheForge**](https://github.com/MlkBlk-IT/Mcp-CacheForge) | Proxy LLM local avec **cache sémantique** — normalisation Aho-Corasick (1114 règles), dashboard. | Python · FastAPI |
 | 🟢 | [**Mcp-QadGraph**](https://github.com/MlkBlk-IT/Mcp-QadGraph) | **Dashboard 3D de similarité** Qdrant + serveur MCP lecture seule (9 outils). 100% stdlib. | JS · Qdrant |
 | 🟢 | [**OpenClaw**](https://github.com/MlkBlk-IT/OpenClaw) | Architecture agentique hybride local+cloud — V1 → V2 (clean slate, contrats machine). | LM Studio |
 | ⚪ | [**LoFT**](https://github.com/MlkBlk-IT/LoFT) | Fine-tuning LoRA CPU (Qwen3), distillation de datasets, tests d'hallucination. | PyTorch · PEFT |
@@ -82,8 +128,28 @@ IT student (DEP Soutien Informatique, EMICA Montréal) — but **AI is the direc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:03150c,100:e10600&height=120&section=footer" width="100%" alt="" />
+## 🤝 Let's connect — `contact`
 
-**⚡ Built on CPU. Proven on disk. ⚡**
+**Ouvert aux stages / internships · alternance · collaboration open-source.**
+Montréal, QC · Français · English
+
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/📂_Voir_tous_les_projets-00ff9c?style=for-the-badge&labelColor=0d0d0d" /></a>
+<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://img.shields.io/badge/🟢_IcyCache-e10600?style=for-the-badge&labelColor=0d0d0d" /></a>
+<a href="https://github.com/MlkBlk-IT/Mcp-Loom"><img src="https://img.shields.io/badge/🔴_Mcp--Loom-e10600?style=for-the-badge&labelColor=0d0d0d" /></a>
+
+<br/><br/>
+
+**⭐ Si un projet t'aide → une étoile coûte rien et m'aide beaucoup.**
+**🔔 Suis-moi pour les prochains MCP servers & systèmes IA CPU-only.**
+
+<sub>
+`mcp` · `mcp-server` · `local-llm` · `llm-cache` · `semantic-cache` · `prompt-caching` · `context-engineering` ·
+`ai-agents` · `llm-proxy` · `qdrant` · `vector-database` · `fastapi` · `sqlite` · `python` · `cpu-only` ·
+`self-hosted` · `local-first` · `homelab` · `cybersecurity` · `active-directory` · `sysmon` · `dfir` ·
+`hyper-v` · `powershell` · `windows-server` · `linux-kernel` · `ebpf` · `lora` · `fine-tuning` · `pytorch` ·
+`openclaw` · `loft` · `loom` · `icycache` · `cacheforge`
+</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:1a0505,100:e10600&height=90&section=footer" width="100%" />
 
 </div>
