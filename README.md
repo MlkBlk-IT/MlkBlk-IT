@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:1a0505,100:00ff9c&height=170&section=header&text=MALIK&fontSize=62&fontColor=e10600&fontAlignY=32&desc=%E2%9A%A1%20AI%20Builder%20%C2%B7%20MCP%20Servers%20%C2%B7%20Agents%20%C2%B7%20Local%20LLMs&descAlignY=56&descSize=16&descColor=00ff9c&animation=fadeIn" width="100%" alt="MALIK — AI Builder" />
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/banner.png" width="100%" alt="MALIK — AI Builder · MCP · Cyber · Homelab" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00FF9C&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+%E2%86%92+AI+builder+%7C+DEP+Soutien+Informatique+%7C+Autodidacte;%24+uptime+%E2%86%92+self-taught+since+May+2026+%F0%9F%9B%A0%EF%B8%8F;%24+constraints+%E2%86%92+100%25+CPU+%C2%B7+0+GPU+%C2%B7+0+API+payante;%24+philosophy+%E2%86%92+%22The+disk+is+your+proof.%22" alt="typing" />
 
