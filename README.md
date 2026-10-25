@@ -6,21 +6,26 @@
 
 <br/>
 
-## ⚠️ RENOMMAGE · RENAME
+## 🚀 RENAME + LAUNCH · RENOMMAGE + LANCEMENT
 
-<a href="https://github.com/MlkBlk-IT/icycache">
-  <img src="https://img.shields.io/badge/%F0%9F%94%B4_Mcp--CacheForge_%E2%9E%9C_%F0%9F%9F%A2_ICYCache-M%C3%8AME_PROJET_%C2%B7_NOUVEAU_NOM-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="Mcp-CacheForge renommé en IcyCache" />
+<a href="https://github.com/MlkBlk-IT/icycache/releases/tag/v0.2.0">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_ICYCache_v0.2.0_%E2%9E%89_LAUNCHED-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="IcyCache v0.2.0 - launched, pip and npm installable" />
 </a>
 
-### 🔴 `Mcp-CacheForge` &nbsp;➡️&nbsp; 🟢 [`IcyCache`](https://github.com/MlkBlk-IT/icycache)
+<a href="https://github.com/MlkBlk-IT/Mcp-Loom/releases/tag/v0.1.0">
+  <img src="https://img.shields.io/badge/%F0%9F%94%81_Mcp--Loom_v0.1.0_%E2%9E%89_LAUNCHED-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="Mcp-Loom v0.1.0 - launched, pip and npm installable" />
+</a>
 
-**« I see cache, I burn cache »** — le proxy LLM à cache sémantique change de nom.
-Les anciens liens `Mcp-CacheForge` **redirigent automatiquement** vers **IcyCache**.
+### 🔴 `Mcp-CacheForge` &nbsp;➡️&nbsp; 🟢 [`IcyCache`](https://github.com/MlkBlk-IT/icycache) — now **v0.2.0**, installable
+
+**« I see cache, I burn cache »** — the LLM gateway with a semantic cache changed its name.
+The old `Mcp-CacheForge` links **redirect automatically** to **IcyCache**, which is now
+published on GitHub Releases and installable with `pip install icycache` or `npx icycache-mcp`.
 
 <br/>
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=Followers&style=for-the-badge&color=e10600&labelColor=0d0d0d&logo=github" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/Projects-7-00ff9c?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=0d0d0d" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/Projects-8-00ff9c?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=0d0d0d" /></a>
 <img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=PROFILE+VIEWS&style=for-the-badge&color=00ff9c&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Open%20to-INTERNSHIP%20%2F%20STAGE-e10600?style=for-the-badge&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Local%20AI-100%25%20CPU%20%C2%B7%200%20GPU-00ff9c?style=for-the-badge&labelColor=0d0d0d" />
@@ -33,12 +38,38 @@ Les anciens liens `Mcp-CacheForge` **redirigent automatiquement** vers **IcyCach
 
 ---
 
+## 🚀 Just launched — both projects are now installable
+
+Two releases went live today. Both are **pip-installable and npm-installable**, and both were verified by installing the *published* wheels into clean virtualenvs and running live MCP handshakes against them.
+
+| | Project | Install | Release |
+|---|---|---|---|
+| 🔴 | **[Mcp-Loom](https://github.com/MlkBlk-IT/Mcp-Loom)** | `pip install loom-mcp` · `npx loom-mcp` | [**v0.1.0**](https://github.com/MlkBlk-IT/Mcp-Loom/releases/tag/v0.1.0) |
+| 🟢 | **[IcyCache](https://github.com/MlkBlk-IT/icycache)** | `pip install icycache` · `npx icycache-mcp` | [**v0.2.0**](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.2.0) |
+
+**Mcp-Loom v0.1.0** — **17 MCP tools** that move bulky context *out of the prompt* and into a local SQLite drawer, byte for byte. No summarization, no lossy compression in the default profile. Ships an admin CLI (`loom health`, `loom stats`, `loom vacuum`, `loom search`…) built on top of the MCP tools.
+
+**IcyCache v0.2.0** — a universal multi-upstream gateway on `:8080` routing to **18 upstreams** (OmniRoute, LM Studio, Ollama, OpenAI, Anthropic, NVIDIA, Groq, Cerebras, OpenRouter, Copilot, …), with a normalized cache, **11 MCP tools**, live WebSocket metrics and a 3D dashboard.
+
+Both are **CPU-only and API-free** — the whole point. The installed package never writes into `site-packages`: data goes to `%LOCALAPPDATA%` on Windows, `~/.local/share` elsewhere.
+
+```bash
+pip install loom-mcp     # context server
+pip install icycache     # LLM gateway
+```
+
+> Both ship an honest status page ([`PROGRESS.md`](https://github.com/MlkBlk-IT/Mcp-Loom/blob/main/PROGRESS.md)) listing what is green, what is broken, and what the next task is. **Alpha means alpha** — IcyCache's semantic cache is still off at runtime and Loom's test suite is not green. Both are documented, not hidden.
+
+**Discussions are now open on every repo** — questions, bug reports, and "how would you use this" are all welcome.
+
+---
+
 ## ⭐ Featured — `cat ~/flagships`
 
 | | Project | Why it matters |
 |--|---------|----------------|
-| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1114 rules), 4 MCP tools, live metrics dashboard. Cuts token cost & latency on CPU-only setups. |
-| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Moves LLM context **out of the prompt losslessly** (zero summarization). SQLite + FTS5, 13 MCP tools. |
+| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1111 rules), 11 MCP tools, 18 upstreams, live metrics dashboard. Cuts token cost & latency on CPU-only setups. |
+| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Moves LLM context **out of the prompt losslessly** (zero summarization). SQLite + FTS5, 17 MCP tools. |
 
 > If you like CPU-first, no-paid-API AI engineering → **⭐ star the repos** and **follow**.
 
@@ -76,8 +107,8 @@ IT student (DEP Soutien Informatique, EMICA Montréal) — but **AI is the direc
 
 | | Project | Pitch | Stack |
 |--|---------|-------|-------|
-| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1114 rules), MCP gateway, metrics dashboard. | Python · FastAPI · SQLite |
-| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Moves LLM context out of the prompt **losslessly** (zero summary). SQLite + FTS5, 13 MCP tools. | Python · FastMCP · SQLite |
+| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Local LLM proxy with **semantic cache** — Aho-Corasick normalization (1111 rules), MCP gateway, metrics dashboard. | Python · FastAPI · SQLite |
+| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Moves LLM context out of the prompt **losslessly** (zero summary). SQLite + FTS5, 17 MCP tools. | Python · FastMCP · SQLite |
 | 🟢 | [**Mcp-QadGraph**](https://github.com/MlkBlk-IT/Mcp-QadGraph) | **3D similarity dashboard** for Qdrant + read-only MCP server (9 tools). Python stdlib only. | JS · Python · Qdrant |
 | 🟢 | [**OpenClaw**](https://github.com/MlkBlk-IT/OpenClaw) | Hybrid local+cloud agentic architecture — V1 (tech debt) → V2 (clean slate, machine contracts). | LM Studio · Agents |
 | ⚪ | [**LoFT**](https://github.com/MlkBlk-IT/LoFT) | CPU LoRA fine-tuning (Qwen3) with dataset distillation + hallucination test runs. | PyTorch · PEFT |
@@ -92,7 +123,7 @@ IT student (DEP Soutien Informatique, EMICA Montréal) — but **AI is the direc
 </div>
 
 ```text
-⏱️ 5 months  self-taught (May → Oct 2026)     📦 7 projects  published
+⏱️ 5 months  self-taught (May → Oct 2026)     📦 8 projects  published
 🤖 19 LLMs   benchmarked locally               💿 14 ISOs     Linux + Windows Server labs
 ```
 
@@ -106,9 +137,10 @@ IT student (DEP Soutien Informatique, EMICA Montréal) — but **AI is the direc
 
 <div align="center">
 
-### ⚠️ `Mcp-CacheForge` a été renommé → [**IcyCache**](https://github.com/MlkBlk-IT/icycache)
+### 🚀 `Mcp-CacheForge` a été renommé en **IcyCache** — désormais **v0.2.0**, installable
 
 Même projet, nouveau nom — **les anciens liens redirigent automatiquement**.
+La version **v0.2.0** est publiée sur GitHub Releases : `pip install icycache` ou `npx icycache-mcp`.
 
 </div>
 
@@ -116,8 +148,8 @@ Même projet, nouveau nom — **les anciens liens redirigent automatiquement**.
 
 | | Projet | Pitch | Stack |
 |--|--------|-------|-------|
-| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Proxy LLM local avec **cache sémantique** — normalisation Aho-Corasick (1114 règles), gateway MCP, dashboard de métriques. | Python · FastAPI |
-| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Sort le contexte LLM du prompt **sans perte** (zéro résumé). SQLite + FTS5, 13 outils MCP. | Python · FastMCP |
+| 🟢 | [**IcyCache**](https://github.com/MlkBlk-IT/icycache) <sub>(ex-CacheForge)</sub> | Proxy LLM local avec **cache sémantique** — normalisation Aho-Corasick (1111 règles), gateway MCP, dashboard de métriques. | Python · FastAPI |
+| 🔴 | [**Mcp-Loom**](https://github.com/MlkBlk-IT/Mcp-Loom) 🚧 | Sort le contexte LLM du prompt **sans perte** (zéro résumé). SQLite + FTS5, 17 outils MCP. | Python · FastMCP |
 | 🟢 | [**Mcp-QadGraph**](https://github.com/MlkBlk-IT/Mcp-QadGraph) | **Dashboard 3D de similarité** Qdrant + serveur MCP lecture seule (9 outils). 100% stdlib. | JS · Qdrant |
 | 🟢 | [**OpenClaw**](https://github.com/MlkBlk-IT/OpenClaw) | Architecture agentique hybride local+cloud — V1 → V2 (clean slate, contrats machine). | LM Studio |
 | ⚪ | [**LoFT**](https://github.com/MlkBlk-IT/LoFT) | Fine-tuning LoRA CPU (Qwen3), distillation de datasets, tests d'hallucination. | PyTorch · PEFT |
