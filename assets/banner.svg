@@ -1,0 +1,19 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#262b36"/>
+      <stop offset="55%" stop-color="#2e2230"/>
+      <stop offset="100%" stop-color="#3a1e22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9c"/>
+      <stop offset="100%" stop-color="#4dffc3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)"/>
+  <text x="60" y="118" font-family="JetBrains Mono, Consolas, monospace" font-size="72" font-weight="700" fill="#f0f3f8" letter-spacing="2">MLKBLK</text>
+  <text x="66" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="20" fill="#00ff9c">AI Builder · MCP · Cyber · Homelab</text>
+  <text x="1140" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#b9c2cf" text-anchor="end">Montréal, QC</text>
+  <rect x="0" y="194" width="1200" height="6" fill="url(#accent)"/>
+</svg>
