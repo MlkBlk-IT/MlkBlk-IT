@@ -8,15 +8,15 @@
 
 ## 🚀 LATEST RELEASES
 
-<a href="https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.0">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_ICYCache_v0.3.0_%E2%9E%89_RELEASED-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="IcyCache v0.3.0 - released, pip and npm installable" />
+<a href="https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.1">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_ICYCache_v0.3.1_%E2%9E%89_RELEASED-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="IcyCache v0.3.1 - released, pip and npm installable" />
 </a>
 
-<a href="https://github.com/MlkBlk-IT/Mcp-Loom/releases/tag/v0.1.1">
-  <img src="https://img.shields.io/badge/%F0%9F%94%81_Mcp--Loom_v0.1.1_%E2%9E%89_RELEASED-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="Mcp-Loom v0.1.1 - released, pip and npm installable" />
+<a href="https://github.com/MlkBlk-IT/Mcp-Loom/releases/tag/v0.1.2">
+  <img src="https://img.shields.io/badge/%F0%9F%94%81_Mcp--Loom_v0.1.2_%E2%9E%89_RELEASED-e10600?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=00ff9c" height="42" alt="Mcp-Loom v0.1.2 - released, pip and npm installable" />
 </a>
 
-### 🔴 `Mcp-CacheForge` &nbsp;➡️&nbsp; 🟢 [`IcyCache`](https://github.com/MlkBlk-IT/icycache) — now **v0.3.0**
+### 🔴 `Mcp-CacheForge` &nbsp;➡️&nbsp; 🟢 [`IcyCache`](https://github.com/MlkBlk-IT/icycache) — now **v0.3.1**
 
 **« I see cache, I burn cache »** — the LLM gateway with a semantic cache changed its name.
 The old `Mcp-CacheForge` links **redirect automatically** to **IcyCache**, which is published
@@ -38,18 +38,22 @@ on GitHub Releases and installable with `pip install icycache` or `npx icycache-
 
 | | Project | Install | Release |
 |---|---|---|---|
-| 🔴 | **[Mcp-Loom](https://github.com/MlkBlk-IT/Mcp-Loom)** | `pip install loom-mcp` · `npx loom-mcp` | [**v0.1.1**](https://github.com/MlkBlk-IT/Mcp-Loom/releases/tag/v0.1.1) |
-| 🟢 | **[IcyCache](https://github.com/MlkBlk-IT/icycache)** | `pip install icycache` · `npx icycache-mcp` | [**v0.3.0**](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.0) |
+| 🔴 | **[Mcp-Loom](https://github.com/MlkBlk-IT/Mcp-Loom)** | `pip install "mcp-loom-mcp @ git+https://github.com/MlkBlk-IT/Mcp-Loom.git"` | [**v0.1.2**](https://github.com/MlkBlk-IT/Mcp-Loom/releases/tag/v0.1.2) |
+| 🟢 | **[IcyCache](https://github.com/MlkBlk-IT/icycache)** | `pip install "icycache @ git+https://github.com/MlkBlk-IT/icycache.git"` | [**v0.3.1**](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.1) |
 
-**IcyCache v0.3.0 — DELTA-002** — a universal multi-upstream gateway on `:8080` routing to **18 upstreams** (OmniRoute, LM Studio, Ollama, OpenAI, Anthropic, NVIDIA, Groq, Cerebras, OpenRouter, Copilot, …), with a normalized cache (**1122** Aho-Corasick rules, number words → digits), **11 MCP tools**, live WebSocket metrics and a 3D dashboard. New in this release: **upstream resilience** — the gateway recycles and retries instead of staying stuck on `502` — and an **opt-in semantic cache** (embeddings + Qdrant, **disabled by default**).
+> Both are pip-installable and npm-installable. The registry names `mcp-loom-mcp` and `icycache`
+> are reserved and free — the packages are **not published yet**, so install from source for now.
+> (`loom-mcp` was rejected on purpose: that name belongs to other projects on PyPI and npm.)
 
-**Mcp-Loom v0.1.1** — **17 MCP tools** that move bulky context *out of the prompt* and into a local SQLite drawer, byte for byte. No summarization, no lossy compression in the default profile. Ships an admin CLI (`loom health`, `loom stats`, `loom vacuum`, `loom search`…) built on top of the MCP tools.
+**IcyCache v0.3.1 — DELTA-002** — a universal multi-upstream gateway on `:8080` routing to **18 upstreams** (OmniRoute, LM Studio, Ollama, OpenAI, Anthropic, NVIDIA, Groq, Cerebras, OpenRouter, Copilot, …), with a normalized cache (**1122** Aho-Corasick rules, number words → digits), **11 MCP tools**, live WebSocket metrics and a 3D dashboard. New in this release: **upstream resilience** — the gateway recycles and retries instead of staying stuck on `502` — and an **opt-in semantic cache** (embeddings + Qdrant, **disabled by default**).
+
+**Mcp-Loom v0.1.2** — **17 MCP tools** that move bulky context *out of the prompt* and into a local SQLite drawer, byte for byte. No summarization, no lossy compression in the default profile. Ships an admin CLI (`loom health`, `loom stats`, `loom vacuum`, `loom search`…) built on top of the MCP tools.
 
 Both are **CPU-only and API-free** — the whole point. The installed package never writes into `site-packages`: data goes to `%LOCALAPPDATA%` on Windows, `~/.local/share` elsewhere.
 
 ```bash
-pip install loom-mcp     # context server
-pip install icycache     # LLM gateway
+pip install "mcp-loom-mcp @ git+https://github.com/MlkBlk-IT/Mcp-Loom.git"   # context server
+pip install "icycache @ git+https://github.com/MlkBlk-IT/icycache.git"       # LLM gateway
 ```
 
 > Both ship an honest status page ([`PROGRESS.md`](https://github.com/MlkBlk-IT/Mcp-Loom/blob/main/PROGRESS.md), [`UPDATE-NOTES.md`](https://github.com/MlkBlk-IT/icycache/blob/main/UPDATE-NOTES.md)) listing what is green, what is broken, and what the next task is. **Alpha means alpha** — IcyCache's semantic cache ships disabled, and Loom's test suite is not green (83 passed / 19 failed / 1 collection error). Both are documented, not hidden.
