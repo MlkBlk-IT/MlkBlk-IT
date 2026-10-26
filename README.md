@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/banner.svg" width="100%" alt="MLKBLK — AI Builder · MCP · Cyber · Homelab" />
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/banner.png" width="100%" alt="MLKBLK — AI · MCP · Cyber · Homelab" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00FF9C&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+%E2%86%92+AI+builder+%7C+IT+Support+DEP+%7C+Self-taught;%24+uptime+%E2%86%92+self-taught+since+May+2026+%F0%9F%9B%A0%EF%B8%8F;%24+constraints+%E2%86%92+100%25+CPU+%C2%B7+0+GPU+%C2%B7+0+paid+API;%24+philosophy+%E2%86%92+%22The+disk+is+your+proof.%22" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=F5D06F&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+%E2%86%92+AI+builder+%7C+IT+Support+DEP+%7C+Self-taught;%24+uptime+%E2%86%92+self-taught+since+May+2026+%F0%9F%9B%A0%EF%B8%8F;%24+constraints+%E2%86%92+100%25+CPU+%C2%B7+0+GPU+%C2%B7+0+paid+API;%24+philosophy+%E2%86%92+%22The+disk+is+your+proof.%22" alt="typing" />
 
 <br/>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=Followers&style=for-the-badge&color=e10600&labelColor=20242c&logo=github" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/Projects-9-00ff9c?style=for-the-badge&logo=github&logoColor=20242c&labelColor=20242c" /></a>
-<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=PROFILE+VIEWS&style=for-the-badge&color=00ff9c&labelColor=20242c" />
-<img src="https://img.shields.io/badge/Open%20to-INTERNSHIP%20%2F%20APPRENTICESHIP-e10600?style=for-the-badge&labelColor=20242c" />
-<img src="https://img.shields.io/badge/Local%20AI-100%25%20CPU%20%C2%B7%200%20GPU-00ff9c?style=for-the-badge&labelColor=20242c" />
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=Followers&style=for-the-badge&color=c9972b&labelColor=20242c&logo=github" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/Projects-9-c9972b?style=for-the-badge&logo=github&logoColor=f5d06f&labelColor=20242c" /></a>
+<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=PROFILE+VIEWS&style=for-the-badge&color=c9972b&labelColor=20242c" />
+<img src="https://img.shields.io/badge/Open%20to-INTERNSHIP%20%2F%20APPRENTICESHIP-c9972b?style=for-the-badge&labelColor=20242c" />
+<img src="https://img.shields.io/badge/Local%20AI-100%25%20CPU%20%C2%B7%200%20GPU-c9972b?style=for-the-badge&labelColor=20242c" />
 
 </div>
 
@@ -87,8 +87,8 @@ IT student (IT Support DEP, EMICA Montréal) — **AI is the direction**: agents
 ## 📊 By the numbers
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MlkBlk-IT&show_icons=true&hide_border=true&bg_color=20242c&title_color=e10600&icon_color=00ff9c&text_color=c9d1d9&ring_color=e10600" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=MlkBlk-IT&hide_border=true&background=20242c&ring=e10600&fire=e10600&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=8b949e&currStreakNum=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MlkBlk-IT&show_icons=true&hide_border=true&bg_color=14141a&title_color=f5d06f&icon_color=c9972b&text_color=c9d1d9&ring_color=c9972b" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=MlkBlk-IT&hide_border=true&background=14141a&ring=c9972b&fire=f5d06f&currStreakLabel=f5d06f&sideLabels=f5d06f&dates=8b949e&currStreakNum=c9d1d9" />
 </div>
 
 ```text
@@ -107,10 +107,10 @@ IT student (IT Support DEP, EMICA Montréal) — **AI is the direction**: agents
 **Open to internships · apprenticeships · open-source collaboration.**
 Montréal, QC · French / English
 
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%82%97_All_projects-00ff9c?style=for-the-badge&labelColor=20242c" /></a>
-<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://img.shields.io/badge/%F0%9F%9F%80_IcyCache-e10600?style=for-the-badge&labelColor=20242c" /></a>
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://img.shields.io/badge/%F0%9F%94%81_mcp--loom--mcp-e10600?style=for-the-badge&labelColor=20242c" /></a>
-<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://img.shields.io/badge/%E2%9A%AA_ViaRoma-3a1e22?style=for-the-badge&labelColor=20242c" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%82%97_All_projects-c9972b?style=for-the-badge&labelColor=20242c" /></a>
+<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://img.shields.io/badge/%F0%9F%9F%80_IcyCache-c9972b?style=for-the-badge&labelColor=20242c" /></a>
+<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://img.shields.io/badge/%F0%9F%94%81_mcp--loom--mcp-c9972b?style=for-the-badge&labelColor=20242c" /></a>
+<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://img.shields.io/badge/%E2%9A%AA_ViaRoma-6b5320?style=for-the-badge&labelColor=20242c" /></a>
 
 <br/><br/>
 
@@ -125,6 +125,6 @@ Montréal, QC · French / English
 `openclaw` · `loft` · `loom` · `icycache` · `cacheforge` · `viaroma`
 </sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:3a1e22,100:e10600&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9972b,50:3a2a0a,100:0a0a0a&height=90&section=footer" width="100%" />
 
 </div>
