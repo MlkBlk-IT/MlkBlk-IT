@@ -1,103 +1,83 @@
 <div align="center">
 
-<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/readme-header.svg" width="100%" alt="MlkBlk-IT visual header" /></p>
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/readme-header.svg" width="100%" alt="MLKBLK-IT — AI, MCP, cyber and homelab" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=F5D06F&center=true&vCenter=true&random=false&width=820&lines=%24+whoami+%E2%86%92+AI+builder+%7C+IT+Support+DEP+%7C+Self-taught;%24+uptime+%E2%86%92+self-taught+since+May+2026+%F0%9F%9B%A0%EF%B8%8F;%24+constraints+%E2%86%92+100%25+CPU+%C2%B7+0+GPU+%C2%B7+0+paid+API;%24+philosophy+%E2%86%92+%22The+disk+is+your+proof.%22" alt="typing" />
+<h1>Malik Belkacemi</h1>
+<p><strong>AI builder · IT support · cybersecurity · local systems</strong></p>
+<p>Montreal, Quebec · French / English · self-taught by building, testing and documenting.</p>
 
-<br/>
-
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=Followers&style=for-the-badge&color=c9972b&labelColor=20242c&logo=github" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/Projects-9-c9972b?style=for-the-badge&logo=github&logoColor=f5d06f&labelColor=20242c" /></a>
-<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=PROFILE+VIEWS&style=for-the-badge&color=c9972b&labelColor=20242c" />
-<img src="https://img.shields.io/badge/Open%20to-INTERNSHIP%20%2F%20APPRENTICESHIP-c9972b?style=for-the-badge&labelColor=20242c" />
-<img src="https://img.shields.io/badge/Local%20AI-100%25%20CPU%20%C2%B7%200%20GPU-c9972b?style=for-the-badge&labelColor=20242c" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/h-releases.svg" width="100%" alt="Latest releases" />
-
-<a href="https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.2"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/card-icycache.svg" width="48.5%" alt="IcyCache v0.3.2" /></a>
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp/releases/tag/v0.1.3"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/card-loom.svg" width="48.5%" alt="mcp-loom-mcp v0.1.3" /></a>
-
-<sub>Both **CPU-only and API-free**. Registry names are reserved but packages aren't published yet — install from source. Honest status pages: <a href="https://github.com/MlkBlk-IT/icycache/blob/main/UPDATE-NOTES.md">IcyCache</a> · <a href="https://github.com/MlkBlk-IT/mcp-loom-mcp/blob/main/PROGRESS.md">mcp-loom-mcp</a> — <b>Alpha means alpha.</b> Discussions are open on every repo.</sub>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/h-about.svg" width="100%" alt="What I do" />
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=b78b42&labelColor=f7f1e6" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/projects-12-b78b42?style=flat-square&labelColor=f7f1e6" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-6ea99b?style=flat-square&labelColor=f7f1e6" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-d88978?style=flat-square&labelColor=f7f1e6" /></a>
 
 </div>
 
-IT student (IT Support DEP, EMICA Montréal) — **AI is the direction**: agents, MCP servers, local LLM systems. Everything ships **on CPU, no paid API**. First computer: **May 2026**. Self-taught by building, measuring, documenting.
+<div align="center">
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-colosseum.svg" width="100%" alt="The project colosseum: active builds in the arena, labs at the foundation" />
+</div>
+
+## The active arena
+
+These are the projects I am actively building, testing or improving now.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/stack.svg" width="100%" alt="Stack" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=20242c" />
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Hyper--V-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/h-projects.svg" width="100%" alt="Projects" />
-
+<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
 <a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icycache.svg" width="48.5%" alt="IcyCache" /></a>
+
+<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
 <a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
-<br/>
+
 <a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
 <a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-openclaw.svg" width="48.5%" alt="OpenClaw" /></a>
-<br/>
-<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
+
 <a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-loft.svg" width="48.5%" alt="LoFT" /></a>
-<br/>
-<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-redmi.svg" width="48.5%" alt="Redmi-Note-10-HomeLab" /></a>
+</div>
+
+### Also active
+
+- [FocusDopa for Android](https://github.com/MlkBlk-IT/FocusDopa-Android) — a focus assistant and reminders project for Android Studio.
+- [mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp) — context tooling measured honestly, with demo and production states kept distinct.
+
+## What I build
+
+- Local AI, MCP servers and provider tooling that stay understandable.
+- CPU-first experiments that work within real hardware limits.
+- Windows, Linux and Android infrastructure.
+- Security labs where every change and result is documented.
+
+## The lab foundation
+
+These projects are intentionally placed at the end: they are important reference work, but they are not the centre of the active project stream.
+
+<div align="center">
+
+<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-redmi.svg" width="48.5%" alt="Redmi Note 10 HomeLab" /></a>
 <a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
-<br/>
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" width="48.5%" alt="icy-loom" /></a>
+
+</div>
+
+- [Redmi Note 10 HomeLab](https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab) — Android hardware, Linux, namespaces, VPN and eBPF.
+- [Lab-SRV1](https://github.com/MlkBlk-IT/Lab-SRV1) — an isolated Hyper-V and Windows Server cybersecurity lab.
+
+## My working principles
+
+- Show what is verified, what is experimental and what is still unknown.
+- Keep credentials and private configuration outside source control.
+- Prefer local, reversible and low-cost solutions.
+- Build small, measure them, then document the result.
+
+## Looking for
+
+Internships, apprenticeships and practical open-source collaboration in Montreal.
+
+<div align="center">
+
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20projects-b78b42?style=for-the-badge&labelColor=f7f1e6" /></a>
+<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/Malik%20Belkacemi-MlkBlk--IT-6ea99b?style=for-the-badge&labelColor=f7f1e6" /></a>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/h-numbers.svg" width="100%" alt="By the numbers" />
-
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/numbers.svg" width="100%" alt="5 months self-taught · 9 projects · 29 LLMs benchmarked · 14 ISO labs" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MlkBlk-IT&show_icons=true&hide_border=true&bg_color=14141a&title_color=f5d06f&icon_color=c9972b&text_color=c9d1d9&ring_color=c9972b" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=MlkBlk-IT&hide_border=true&background=14141a&ring=c9972b&fire=f5d06f&currStreakLabel=f5d06f&sideLabels=f5d06f&dates=8b949e&currStreakNum=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/h-contact.svg" width="100%" alt="Let's connect" />
-
-**Open to internships · apprenticeships · open-source collaboration.**
-Montréal, QC · French / English
-
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%82%97_All_projects-c9972b?style=for-the-badge&labelColor=20242c" /></a>
-<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://img.shields.io/badge/%F0%9F%9F%80_IcyCache-c9972b?style=for-the-badge&labelColor=20242c" /></a>
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://img.shields.io/badge/%F0%9F%94%81_mcp--loom--mcp-c9972b?style=for-the-badge&labelColor=20242c" /></a>
-<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://img.shields.io/badge/%E2%9A%AA_ViaRoma-6b5320?style=for-the-badge&labelColor=20242c" /></a>
-
-<br/><br/>
-
-**⭐ If a project helps you → a star costs nothing and helps me a lot.**
-**🔔 Follow me for the next MCP servers & CPU-only AI systems.**
-
-<sub>
-`mcp` · `mcp-server` · `local-llm` · `llm-cache` · `semantic-cache` · `prompt-caching` · `context-engineering` ·
-`ai-agents` · `llm-proxy` · `llm-gateway` · `openai-compatible` · `qdrant` · `vector-database` · `fastapi` · `sqlite` · `python` · `cpu-only` ·
-`self-hosted` · `local-first` · `homelab` · `cybersecurity` · `active-directory` · `sysmon` · `dfir` ·
-`hyper-v` · `powershell` · `windows-server` · `linux-kernel` · `ebpf` · `lora` · `fine-tuning` · `pytorch` ·
-`openclaw` · `loft` · `loom` · `icycache` · `cacheforge` · `viaroma`
-</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9972b,50:3a2a0a,100:0a0a0a&height=90&section=footer" width="100%" />
+<sub>Built and documented by <strong>Malik Belkacemi · MlkBlk-IT</strong>.</sub>
 
 </div>
