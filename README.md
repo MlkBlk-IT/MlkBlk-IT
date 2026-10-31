@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="MlkBlk-IT — Malik Belkacemi · MLKBLK-IT" /></p>
 
 <h1>Malik Belkacemi</h1>
-<p><strong>AI builder · IT support · cybersecurity · local systems</strong></p>
+<p><strong>AI builder · IT support · cybersecurity · local + cloud systems</strong></p>
 <p>Montreal, Quebec · French / English · self-taught by building, testing and documenting.</p>
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=28a9ff&labelColor=071a4d" /></a>
@@ -16,13 +16,13 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT unified project portfolio" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v1.svg" width="100%" alt="New release local AI toolkit" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v1.svg" width="100%" alt="New release hybrid AI toolkit" /></div>
 
 ## NEW RELEASE
 
 **[IcyLoom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
 
-PyPI + npm + GitHub releases · MCP-ready · CPU-first · clean-install verified where published.
+PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybrid workflows.
 
 | Project | GitHub | PyPI | npm |
 |---|---|---|---|
@@ -32,7 +32,7 @@ PyPI + npm + GitHub releases · MCP-ready · CPU-first · clean-install verified
 
 ## MCP / AI PRODUCTS
 
-<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Flagship local MCP gateway.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>LLM gateway and local cache.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable SQLite + FTS5 context server.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td></tr></table>
+<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Hybrid MCP gateway for local and cloud workflows.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>Multi-provider gateway and cache.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable context layer for hybrid MCP workflows.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td></tr></table>
 
 ## DOC / RESEARCH / COMMUNITY
 
@@ -40,8 +40,8 @@ PyPI + npm + GitHub releases · MCP-ready · CPU-first · clean-install verified
 
 ## What I build
 
-- Local AI, MCP servers and provider tooling that stay understandable.
-- CPU-first experiments that work within real hardware limits.
+- Local, cloud and hybrid AI infrastructure that stays understandable.
+- CPU-first experiments and cloud integrations that work within real hardware limits.
 - Windows, Linux and Android infrastructure.
 - Security labs where every change and result is documented.
 
