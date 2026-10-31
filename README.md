@@ -16,8 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/h-releases.svg" width="100%" alt="Latest releases" />
 
-<a href="https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/card-icycache.svg" width="48.5%" alt="IcyCache v0.3.1" /></a>
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp/releases/tag/v0.1.2"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/card-loom.svg" width="48.5%" alt="mcp-loom-mcp v0.1.2" /></a>
+<a href="https://github.com/MlkBlk-IT/icycache/releases/tag/v0.3.2"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/card-icycache.svg" width="48.5%" alt="IcyCache v0.3.2" /></a>
+<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp/releases/tag/v0.1.3"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/card-loom.svg" width="48.5%" alt="mcp-loom-mcp v0.1.3" /></a>
 
 <sub>Both **CPU-only and API-free**. Registry names are reserved but packages aren't published yet — install from source. Honest status pages: <a href="https://github.com/MlkBlk-IT/icycache/blob/main/UPDATE-NOTES.md">IcyCache</a> · <a href="https://github.com/MlkBlk-IT/mcp-loom-mcp/blob/main/PROGRESS.md">mcp-loom-mcp</a> — <b>Alpha means alpha.</b> Discussions are open on every repo.</sub>
 
