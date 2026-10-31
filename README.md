@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/readme-header.svg" width="100%" alt="MLKBLK-IT — AI, MCP, cyber and homelab" />
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-header.svg" width="100%" alt="MLKBLK-IT — AI, MCP, cyber and homelab" />
 
 <h1>Malik Belkacemi</h1>
 <p><strong>AI builder · IT support · cybersecurity · local systems</strong></p>
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-colosseum.svg" width="100%" alt="The project colosseum: active builds in the arena, labs at the foundation" />
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-colosseum.svg" width="100%" alt="The project colosseum: active builds in the arena, labs at the foundation" />
 </div>
 
 ## The active arena
@@ -23,15 +23,15 @@ These are the projects I am actively building, testing or improving now.
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
-<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-icycache.svg" width="48.5%" alt="IcyCache" /></a>
+<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
+<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-icycache.svg" width="48.5%" alt="IcyCache" /></a>
 
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
+<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
+<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
 
-<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
+<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
 
-<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-loft.svg" width="48.5%" alt="LoFT" /></a>
+<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-loft.svg" width="48.5%" alt="LoFT" /></a>
 </div>
 
 ### Also active
@@ -52,9 +52,9 @@ These projects are intentionally placed at the end: they are important reference
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-redmi.svg" width="48.5%" alt="Redmi Note 10 HomeLab" /></a>
-<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
-<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-openclaw.svg" width="48.5%" alt="OpenClaw — documentation lab" /></a>
+<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-redmi.svg" width="48.5%" alt="Redmi Note 10 HomeLab" /></a>
+<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
+<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-openclaw.svg" width="48.5%" alt="OpenClaw — documentation lab" /></a>
 
 </div>
 
