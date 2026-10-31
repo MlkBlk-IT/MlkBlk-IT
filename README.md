@@ -1,22 +1,22 @@
 <div align="center">
 
-<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="MlkBlk-IT — Malik Belkacemi · MLKBLK-IT" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="MLKBLK-IT — AI builder: MCP, CPU-only LLMs, security, homelab" /></p>
 
-<h1>Malik Belkacemi</h1>
+<h1>MLKBLK</h1>
 <p><strong>AI builder · IT support · cybersecurity · local + cloud systems</strong></p>
 <p>Montreal, Quebec · French / English · self-taught by building, testing and documenting.</p>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=28a9ff&labelColor=071a4d" /></a>
-<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=ffd447&labelColor=071a4d" alt="profile views" />
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-12-ff405c?style=flat-square&labelColor=071a4d" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-36d68b?style=flat-square&labelColor=071a4d" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-28a9ff?style=flat-square&labelColor=071a4d" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=2de2ff&labelColor=0d0a2b" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=8a5bff&labelColor=0d0a2b" alt="profile views" />
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-11-ff5fa2?style=flat-square&labelColor=0d0a2b" alt="repos" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-2de2ff?style=flat-square&labelColor=0d0a2b" alt="CPU-first, 0 GPU" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-8a5bff?style=flat-square&labelColor=0d0a2b" alt="open to internships" /></a>
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT unified project portfolio" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT project portfolio" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v1.svg" width="100%" alt="New release hybrid AI toolkit" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v1.svg" width="100%" alt="New release: hybrid AI toolkit" /></div>
 
 ## NEW RELEASE
 
@@ -32,7 +32,7 @@ PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybri
 
 ## MCP / AI PRODUCTS
 
-<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Hybrid MCP gateway for local and cloud workflows.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>Multi-provider gateway and cache.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable context layer for hybrid MCP workflows.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td></tr></table>
+<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Hybrid MCP gateway for local and cloud workflows.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>Multi-provider gateway and cache.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable context layer for hybrid MCP workflows.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/ViaRoma/main/docs/mlkblk-banner-v2.svg" width="100%" alt="ViaRoma" /></a><br/><b><a href="https://github.com/MlkBlk-IT/ViaRoma">ViaRoma</a></b> · <i>alpha</i><br/>Free-model router and MCP server. Not production-ready.</td><td width="50%"></td></tr></table>
 
 ## DOC / RESEARCH / COMMUNITY
 
@@ -62,11 +62,11 @@ Internships, apprenticeships and practical open-source collaboration in Montreal
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20repos-28a9ff?style=for-the-badge&labelColor=071a4d" /></a>
-<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/Malik%20Belkacemi-MlkBlk--IT-36d68b?style=for-the-badge&labelColor=071a4d" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20repos-2de2ff?style=for-the-badge&labelColor=0d0a2b" alt="view all repos" /></a>
+<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/MLKBLK--IT-ff5fa2?style=for-the-badge&labelColor=0d0a2b" alt="MLKBLK-IT" /></a>
 
 <br/><br/>
-<sub>Built and documented by <strong>Malik Belkacemi · MlkBlk-IT</strong>.</sub>
+<sub>Built and documented by <strong>MLKBLK-IT</strong>.</sub>
 
 </div>
 
