@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner.svg" width="100%" alt="MlkBlk-IT — Malik Belkacemi · MLKBLK-IT" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="MlkBlk-IT — Malik Belkacemi · MLKBLK-IT" /></p>
 
 <h1>Malik Belkacemi</h1>
 <p><strong>AI builder · IT support · cybersecurity · local systems</strong></p>
