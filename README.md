@@ -6,25 +6,19 @@
 <p><strong>AI builder · IT support · cybersecurity · local systems</strong></p>
 <p>Montreal, Quebec · French / English · self-taught by building, testing and documenting.</p>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=b78b42&labelColor=f7f1e6" /></a>
-<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=b78b42&labelColor=f7f1e6" alt="profile views" />
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/projects-11-b78b42?style=flat-square&labelColor=f7f1e6" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-6ea99b?style=flat-square&labelColor=f7f1e6" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-d88978?style=flat-square&labelColor=f7f1e6" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=28a9ff&labelColor=071a4d" /></a>
+<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=ffd447&labelColor=071a4d" alt="profile views" />
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/projects-11-ff405c?style=flat-square&labelColor=071a4d" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-36d68b?style=flat-square&labelColor=071a4d" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-28a9ff?style=flat-square&labelColor=071a4d" /></a>
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-colosseum.svg" width="100%" alt="The project colosseum: active builds in the arena, labs at the foundation" />
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT unified project portfolio" /></div>
 
 ## Flagship
 
 <div align="center">
-
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" alt="IcyLoom — flagship project" /></a>
-
-<br/>
 
 **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom)** — one local MCP server with an LLM cache, a compressed context drawer and a tool relay.
 One SQLite file, one ledger, one hand-drawn console. CPU-only, no paid API, installable by a stranger in five minutes.
@@ -43,17 +37,6 @@ One SQLite file, one ledger, one hand-drawn console. CPU-only, no paid API, inst
 
 These are the projects I am actively building, testing or improving now.
 
-<div align="center">
-
-<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-icycache.svg" width="48.5%" alt="IcyCache" /></a>
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
-
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
-<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
-
-<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-loft.svg" width="48.5%" alt="LoFT" /></a>
-</div>
-
 ### Also active
 
 - [FocusDopa for Android](https://github.com/MlkBlk-IT/FocusDopa-Android) — a focus assistant and reminders project for Android Studio.
@@ -69,14 +52,6 @@ These are the projects I am actively building, testing or improving now.
 ## The lab foundation
 
 These projects are intentionally placed at the end: they are important reference work, but they are not the centre of the active project stream.
-
-<div align="center">
-
-<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-redmi.svg" width="48.5%" alt="Redmi Note 10 HomeLab" /></a>
-<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
-<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-openclaw.svg" width="48.5%" alt="OpenClaw — architecture lab" /></a>
-
-</div>
 
 - [Redmi Note 10 HomeLab](https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab) — Android hardware, Linux, namespaces, VPN and eBPF.
 - [Lab-SRV1](https://github.com/MlkBlk-IT/Lab-SRV1) — an isolated Hyper-V and Windows Server cybersecurity lab.
