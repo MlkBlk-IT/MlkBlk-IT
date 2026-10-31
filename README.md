@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/banner.png?v=2" width="100%" alt="MLKBLK — AI · MCP · Cyber · Homelab" />
+<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/readme-header.svg" width="100%" alt="MlkBlk-IT visual header" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=F5D06F&center=true&vCenter=true&random=false&width=820&lines=%24+whoami+%E2%86%92+AI+builder+%7C+IT+Support+DEP+%7C+Self-taught;%24+uptime+%E2%86%92+self-taught+since+May+2026+%F0%9F%9B%A0%EF%B8%8F;%24+constraints+%E2%86%92+100%25+CPU+%C2%B7+0+GPU+%C2%B7+0+paid+API;%24+philosophy+%E2%86%92+%22The+disk+is+your+proof.%22" alt="typing" />
 
