@@ -8,7 +8,7 @@
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=28a9ff&labelColor=071a4d" /></a>
 <img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=ffd447&labelColor=071a4d" alt="profile views" />
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/projects-11-ff405c?style=flat-square&labelColor=071a4d" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-12-ff405c?style=flat-square&labelColor=071a4d" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-36d68b?style=flat-square&labelColor=071a4d" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-28a9ff?style=flat-square&labelColor=071a4d" /></a>
 
@@ -23,6 +23,12 @@
 **[IcyLoom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
 
 PyPI + npm + GitHub releases · MCP-ready · CPU-first · clean-install verified where published.
+
+| Project | GitHub | PyPI | npm |
+|---|---|---|---|
+| IcyLoom | [release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0) | [icyloom](https://pypi.org/project/icyloom/) | — |
+| IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | [icycache](https://pypi.org/project/icycache/) | [@mlkblkit/icycache](https://www.npmjs.com/package/@mlkblkit/icycache) |
+| Loom | [releases](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases) | [mcp-loom-mcp](https://pypi.org/project/mcp-loom-mcp/) | [mcp-loom-mcp](https://www.npmjs.com/package/mcp-loom-mcp) |
 
 ## MCP / AI PRODUCTS
 
@@ -56,8 +62,8 @@ Internships, apprenticeships and practical open-source collaboration in Montreal
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20projects-b78b42?style=for-the-badge&labelColor=f7f1e6" /></a>
-<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/Malik%20Belkacemi-MlkBlk--IT-6ea99b?style=for-the-badge&labelColor=f7f1e6" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20repos-28a9ff?style=for-the-badge&labelColor=071a4d" /></a>
+<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/Malik%20Belkacemi-MlkBlk--IT-36d68b?style=for-the-badge&labelColor=071a4d" /></a>
 
 <br/><br/>
 <sub>Built and documented by <strong>Malik Belkacemi · MlkBlk-IT</strong>.</sub>
