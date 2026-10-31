@@ -84,6 +84,11 @@ Internships, apprenticeships and practical open-source collaboration in Montreal
 </div>
 
 
+
+## Ownership and license
+
+[Project origin and evidence](PROJECT-ORIGIN.md) · [License](LICENSE)
+
 ---
 
 <div align="center">
