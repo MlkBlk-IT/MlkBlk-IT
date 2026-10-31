@@ -61,6 +61,8 @@ IT student (IT Support DEP, EMICA Montréal) — **AI is the direction**: agents
 <br/>
 <a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-redmi.svg" width="48.5%" alt="Redmi-Note-10-HomeLab" /></a>
 <a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
+<br/>
+<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" width="48.5%" alt="icy-loom" /></a>
 
 <br/><br/>
 
