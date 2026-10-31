@@ -16,43 +16,21 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT unified project portfolio" /></div>
 
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v1.svg" width="100%" alt="New release local AI toolkit" /></div>
+
+## NEW RELEASE
+
+**[IcyLoom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
+
+PyPI + npm + GitHub releases · MCP-ready · CPU-first · clean-install verified where published.
+
 ## MCP / AI PRODUCTS
 
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a>
-
-**[IcyLoom](https://github.com/MlkBlk-IT/icy-loom)** — flagship local MCP gateway: cache, context drawer, tool relay and SQLite ledger.
-
-<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a>
-
-**[IcyCache](https://github.com/MlkBlk-IT/icycache)** — multi-upstream LLM gateway with local caching, routing and live metrics.
-
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a>
-
-**[Loom](https://github.com/MlkBlk-IT/mcp-loom-mcp)** — portable MCP context server built on SQLite and FTS5.
-
-<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a>
-
-**[Mcp-QadGraph](https://github.com/MlkBlk-IT/Mcp-QadGraph)** — Qdrant control plane with 3D similarity visualization and read-only MCP tools.
-
-## Latest releases
-
-- **[icy-loom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** — flagship. Wheel + sdist, CI green on Windows and Linux, `icyloom check` returns 21/21 on a clean install.
-- **[icycache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** — published Python + npm gateway with a local cache.
-- **[mcp-loom-mcp v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)** — published Python + npm portable context server.
+<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Flagship local MCP gateway.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>LLM gateway and local cache.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable SQLite + FTS5 context server.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td></tr></table>
 
 ## DOC / RESEARCH / COMMUNITY
 
-<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/LoFT/main/docs/mlkblk-banner-v2.svg" width="100%" alt="LoFT" /></a>
-
-**[LoFT](https://github.com/MlkBlk-IT/LoFT)** — CPU LoRA and Qwen3 research lab with measured runs and evaluation.
-
-<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/OpenClaw/main/docs/mlkblk-banner-v2.svg" width="100%" alt="OpenClaw" /></a>
-
-**[OpenClaw](https://github.com/MlkBlk-IT/OpenClaw)** — documented architecture lab for hybrid local/cloud AI systems.
-
-<a href="https://github.com/MlkBlk-IT/awesome-mcp-servers"><img src="https://raw.githubusercontent.com/MlkBlk-IT/awesome-mcp-servers/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Awesome MCP Servers" /></a>
-
-**[Awesome MCP Servers](https://github.com/MlkBlk-IT/awesome-mcp-servers)** — MCP discovery and community contribution.
+<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/LoFT/main/docs/mlkblk-banner-v2.svg" width="100%" alt="LoFT" /></a><br/><b><a href="https://github.com/MlkBlk-IT/LoFT">LoFT</a></b><br/>CPU LoRA and Qwen3 research.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/OpenClaw/main/docs/mlkblk-banner-v2.svg" width="100%" alt="OpenClaw" /></a><br/><b><a href="https://github.com/MlkBlk-IT/OpenClaw">OpenClaw</a></b><br/>Hybrid AI architecture lab.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/awesome-mcp-servers"><img src="https://raw.githubusercontent.com/MlkBlk-IT/awesome-mcp-servers/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Awesome MCP Servers" /></a><br/><b><a href="https://github.com/MlkBlk-IT/awesome-mcp-servers">Awesome MCP Servers</a></b><br/>MCP discovery and community.</td><td width="50%"></td></tr></table>
 
 ## What I build
 
@@ -63,17 +41,7 @@
 
 ## LAB / INFRASTRUCTURE
 
-<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Lab-SRV1/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Lab-SRV1" /></a>
-
-**[Lab-SRV1](https://github.com/MlkBlk-IT/Lab-SRV1)** — isolated Hyper-V and Windows Server cybersecurity lab.
-
-<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Redmi-Note-10-HomeLab/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Redmi HomeLab" /></a>
-
-**[Redmi Note 10 HomeLab](https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab)** — Android hardware, Linux, namespaces, VPN and eBPF.
-
-<a href="https://github.com/MlkBlk-IT/FocusDopa-Android"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/focusdopa-banner-v2.svg" width="100%" alt="FocusDopa" /></a>
-
-**[FocusDopa for Android](https://github.com/MlkBlk-IT/FocusDopa-Android)** — focus assistant and smart reminders project.
+<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Lab-SRV1/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Lab-SRV1" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Lab-SRV1">Lab-SRV1</a></b><br/>Hyper-V and Windows Server security lab.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Redmi-Note-10-HomeLab/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Redmi HomeLab" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab">Redmi HomeLab</a></b><br/>Android, Linux, eBPF and networking.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/FocusDopa-Android"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/focusdopa-banner-v2.svg" width="100%" alt="FocusDopa" /></a><br/><b><a href="https://github.com/MlkBlk-IT/FocusDopa-Android">FocusDopa</a></b><br/>Android focus assistant and reminders.</td><td width="50%"></td></tr></table>
 
 ## My working principles
 
