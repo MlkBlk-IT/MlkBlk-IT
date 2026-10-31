@@ -7,6 +7,7 @@
 <p>Montreal, Quebec · French / English · self-taught by building, testing and documenting.</p>
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=b78b42&labelColor=f7f1e6" /></a>
+<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=b78b42&labelColor=f7f1e6" alt="profile views" />
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/projects-11-b78b42?style=flat-square&labelColor=f7f1e6" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-6ea99b?style=flat-square&labelColor=f7f1e6" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-d88978?style=flat-square&labelColor=f7f1e6" /></a>
@@ -35,8 +36,8 @@ One SQLite file, one ledger, one hand-drawn console. CPU-only, no paid API, inst
 ## Latest releases
 
 - **[icy-loom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** — flagship. Wheel + sdist, CI green on Windows and Linux, `icyloom check` returns 21/21 on a clean install.
-- **[icycache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** — multi-upstream LLM gateway with a local cache. Now merged into IcyLoom.
-- **[mcp-loom-mcp v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)** — portable context server. Now merged into IcyLoom.
+- **[icycache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** — published Python + npm gateway with a local cache.
+- **[mcp-loom-mcp v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)** — published Python + npm portable context server.
 
 ## The active arena
 
@@ -44,8 +45,8 @@ These are the projects I am actively building, testing or improving now.
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
 <a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-icycache.svg" width="48.5%" alt="IcyCache" /></a>
+<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
 
 <a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
 <a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
@@ -56,7 +57,7 @@ These are the projects I am actively building, testing or improving now.
 ### Also active
 
 - [FocusDopa for Android](https://github.com/MlkBlk-IT/FocusDopa-Android) — a focus assistant and reminders project for Android Studio.
-- [icycache](https://github.com/MlkBlk-IT/icycache) and [mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp) — the two projects merged into the IcyLoom flagship; kept online for their releases and history.
+- [icycache](https://github.com/MlkBlk-IT/icycache) and [mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp) — companion projects, independently published and maintained alongside IcyLoom.
 
 ## What I build
 
