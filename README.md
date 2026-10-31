@@ -23,16 +23,15 @@ These are the projects I am actively building, testing or improving now.
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
-<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icycache.svg" width="48.5%" alt="IcyCache" /></a>
+<a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-viaroma.svg" width="48.5%" alt="ViaRoma" /></a>
+<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-icycache.svg" width="48.5%" alt="IcyCache" /></a>
 
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
-<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
+<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-icyloom.svg" width="48.5%" alt="IcyLoom" /></a>
+<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-loom.svg" width="48.5%" alt="mcp-loom-mcp" /></a>
 
-<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
-<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-openclaw.svg" width="48.5%" alt="OpenClaw" /></a>
+<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-qadgraph.svg" width="48.5%" alt="Mcp-QadGraph" /></a>
 
-<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-loft.svg" width="48.5%" alt="LoFT" /></a>
+<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-loft.svg" width="48.5%" alt="LoFT" /></a>
 </div>
 
 ### Also active
@@ -53,13 +52,15 @@ These projects are intentionally placed at the end: they are important reference
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-redmi.svg" width="48.5%" alt="Redmi Note 10 HomeLab" /></a>
-<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/p-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
+<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-redmi.svg" width="48.5%" alt="Redmi Note 10 HomeLab" /></a>
+<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-lab.svg" width="48.5%" alt="Lab-SRV1" /></a>
+<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/glass-openclaw.svg" width="48.5%" alt="OpenClaw — documentation lab" /></a>
 
 </div>
 
 - [Redmi Note 10 HomeLab](https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab) — Android hardware, Linux, namespaces, VPN and eBPF.
 - [Lab-SRV1](https://github.com/MlkBlk-IT/Lab-SRV1) — an isolated Hyper-V and Windows Server cybersecurity lab.
+- [OpenClaw](https://github.com/MlkBlk-IT/OpenClaw) — documentation of a hybrid AI architecture reset, not an active product.
 
 ## My working principles
 
