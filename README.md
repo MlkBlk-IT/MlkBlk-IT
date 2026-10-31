@@ -16,16 +16,23 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT unified project portfolio" /></div>
 
-## Flagship
+## MCP / AI PRODUCTS
 
-<div align="center">
+<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a>
 
-**[IcyLoom](https://github.com/MlkBlk-IT/icy-loom)** — one local MCP server with an LLM cache, a compressed context drawer and a tool relay.
-One SQLite file, one ledger, one hand-drawn console. CPU-only, no paid API, installable by a stranger in five minutes.
+**[IcyLoom](https://github.com/MlkBlk-IT/icy-loom)** — flagship local MCP gateway: cache, context drawer, tool relay and SQLite ledger.
 
-<img src="https://img.shields.io/badge/release-v1.0.0-b78b42?style=flat-square&labelColor=f7f1e6" /> <img src="https://img.shields.io/badge/status-stable-b78b42?style=flat-square&labelColor=f7f1e6" /> <img src="https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-b78b42?style=flat-square&labelColor=f7f1e6" /> <img src="https://img.shields.io/badge/CPU--only-0%20GPU-6ea99b?style=flat-square&labelColor=f7f1e6" />
+<a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a>
 
-</div>
+**[IcyCache](https://github.com/MlkBlk-IT/icycache)** — multi-upstream LLM gateway with local caching, routing and live metrics.
+
+<a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a>
+
+**[Loom](https://github.com/MlkBlk-IT/mcp-loom-mcp)** — portable MCP context server built on SQLite and FTS5.
+
+<a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a>
+
+**[Mcp-QadGraph](https://github.com/MlkBlk-IT/Mcp-QadGraph)** — Qdrant control plane with 3D similarity visualization and read-only MCP tools.
 
 ## Latest releases
 
@@ -33,14 +40,19 @@ One SQLite file, one ledger, one hand-drawn console. CPU-only, no paid API, inst
 - **[icycache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** — published Python + npm gateway with a local cache.
 - **[mcp-loom-mcp v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)** — published Python + npm portable context server.
 
-## The active arena
+## DOC / RESEARCH / COMMUNITY
 
-These are the projects I am actively building, testing or improving now.
+<a href="https://github.com/MlkBlk-IT/LoFT"><img src="https://raw.githubusercontent.com/MlkBlk-IT/LoFT/main/docs/mlkblk-banner-v2.svg" width="100%" alt="LoFT" /></a>
 
-### Also active
+**[LoFT](https://github.com/MlkBlk-IT/LoFT)** — CPU LoRA and Qwen3 research lab with measured runs and evaluation.
 
-- [FocusDopa for Android](https://github.com/MlkBlk-IT/FocusDopa-Android) — a focus assistant and reminders project for Android Studio.
-- [icycache](https://github.com/MlkBlk-IT/icycache) and [mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp) — companion projects, independently published and maintained alongside IcyLoom.
+<a href="https://github.com/MlkBlk-IT/OpenClaw"><img src="https://raw.githubusercontent.com/MlkBlk-IT/OpenClaw/main/docs/mlkblk-banner-v2.svg" width="100%" alt="OpenClaw" /></a>
+
+**[OpenClaw](https://github.com/MlkBlk-IT/OpenClaw)** — documented architecture lab for hybrid local/cloud AI systems.
+
+<a href="https://github.com/MlkBlk-IT/awesome-mcp-servers"><img src="https://raw.githubusercontent.com/MlkBlk-IT/awesome-mcp-servers/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Awesome MCP Servers" /></a>
+
+**[Awesome MCP Servers](https://github.com/MlkBlk-IT/awesome-mcp-servers)** — MCP discovery and community contribution.
 
 ## What I build
 
@@ -49,13 +61,19 @@ These are the projects I am actively building, testing or improving now.
 - Windows, Linux and Android infrastructure.
 - Security labs where every change and result is documented.
 
-## The lab foundation
+## LAB / INFRASTRUCTURE
 
-These projects are intentionally placed at the end: they are important reference work, but they are not the centre of the active project stream.
+<a href="https://github.com/MlkBlk-IT/Lab-SRV1"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Lab-SRV1/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Lab-SRV1" /></a>
 
-- [Redmi Note 10 HomeLab](https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab) — Android hardware, Linux, namespaces, VPN and eBPF.
-- [Lab-SRV1](https://github.com/MlkBlk-IT/Lab-SRV1) — an isolated Hyper-V and Windows Server cybersecurity lab.
-- [OpenClaw](https://github.com/MlkBlk-IT/OpenClaw) — an **architecture lab**: contracts, runbooks and lessons learned from a hybrid AI reset. It documents a methodology, it is not a product and it is not an MCP server.
+**[Lab-SRV1](https://github.com/MlkBlk-IT/Lab-SRV1)** — isolated Hyper-V and Windows Server cybersecurity lab.
+
+<a href="https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Redmi-Note-10-HomeLab/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Redmi HomeLab" /></a>
+
+**[Redmi Note 10 HomeLab](https://github.com/MlkBlk-IT/Redmi-Note-10-HomeLab)** — Android hardware, Linux, namespaces, VPN and eBPF.
+
+<a href="https://github.com/MlkBlk-IT/FocusDopa-Android"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/focusdopa-banner-v2.svg" width="100%" alt="FocusDopa" /></a>
+
+**[FocusDopa for Android](https://github.com/MlkBlk-IT/FocusDopa-Android)** — focus assistant and smart reminders project.
 
 ## My working principles
 
