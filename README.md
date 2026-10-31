@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/liquid-header.svg" width="100%" alt="MLKBLK-IT — AI, MCP, cyber and homelab" />
+<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner.svg" width="100%" alt="MlkBlk-IT — Malik Belkacemi · MLKBLK-IT" /></p>
 
 <h1>Malik Belkacemi</h1>
 <p><strong>AI builder · IT support · cybersecurity · local systems</strong></p>
@@ -80,5 +80,14 @@ Internships, apprenticeships and practical open-source collaboration in Montreal
 
 <br/><br/>
 <sub>Built and documented by <strong>Malik Belkacemi · MlkBlk-IT</strong>.</sub>
+
+</div>
+
+
+---
+
+<div align="center">
+
+<sub>Original project and documentation by <strong>Malik Belkacemi · MLKBLK-IT</strong> · © 2026</sub>
 
 </div>
