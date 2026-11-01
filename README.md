@@ -14,9 +14,9 @@
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v3.svg" width="100%" alt="MLKBLK-IT project portfolio" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v4.svg" width="100%" alt="MLKBLK-IT project portfolio — OSIRIS featured" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v1.svg" width="100%" alt="New release: hybrid AI toolkit" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v2.svg" width="100%" alt="New release: OSIRIS v1.0.0" /></div>
 
 ## NEW RELEASE
 
