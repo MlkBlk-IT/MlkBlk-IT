@@ -33,7 +33,7 @@ PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybri
 
 ## FLAGSHIP: HERMES ENVIRONMENT
 
-<div align="center"><a href="https://github.com/MlkBlk-IT/hermes-environment"><img src="https://raw.githubusercontent.com/MlkBlk-IT/hermes-environment/main/assets/banner.svg" width="100%" alt="HERMES environment" /></a></div>
+<div align="center"><a href="https://github.com/MlkBlk-IT/hermes-environment"><img src="https://raw.githubusercontent.com/MlkBlk-IT/hermes-environment/master/assets/banner.svg" width="100%" alt="HERMES environment" /></a></div>
 
 **[HERMES environment](https://github.com/MlkBlk-IT/hermes-environment)** is the runtime this whole portfolio runs on: a Windows host orchestrating 19 LLM providers, 58 MCP servers, 596 loaded skills, 26 plugins and 7 cron jobs — CPU-only, free-tier, fully documented from the live installation.
 
