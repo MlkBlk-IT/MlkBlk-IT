@@ -8,13 +8,13 @@
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=fbbc04&labelColor=0b1f4d" alt="profile views" />
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-13-ea4335?style=flat-square&labelColor=0b1f4d" alt="repos" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-14-ea4335?style=flat-square&labelColor=0b1f4d" alt="repos" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-34a853?style=flat-square&labelColor=0b1f4d" alt="CPU-first, 0 GPU" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-4285f4?style=flat-square&labelColor=0b1f4d" alt="open to internships" /></a>
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v4.svg" width="100%" alt="MLKBLK-IT project portfolio — OSIRIS featured" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v5.svg" width="100%" alt="MLKBLK-IT project portfolio — HERMES flagship, OSIRIS featured" /></div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v2.svg" width="100%" alt="New release: OSIRIS v0.1.0" /></div>
 
@@ -31,7 +31,24 @@ PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybri
 | IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | Multi-provider gateway and cache | v0.3.2 |
 | Loom | [releases](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases) | Portable context layer for hybrid MCP workflows | v0.1.3 |
 
+## FLAGSHIP: HERMES ENVIRONMENT
+
+<div align="center"><a href="https://github.com/MlkBlk-IT/hermes-environment"><img src="https://raw.githubusercontent.com/MlkBlk-IT/hermes-environment/main/assets/banner.svg" width="100%" alt="HERMES environment" /></a></div>
+
+**[HERMES environment](https://github.com/MlkBlk-IT/hermes-environment)** is the runtime this whole portfolio runs on: a Windows host orchestrating 19 LLM providers, 58 MCP servers, 596 loaded skills, 26 plugins and 7 cron jobs — CPU-only, free-tier, fully documented from the live installation.
+
+| Layer | What it does |
+|---|---|
+| Providers + routing | 19 providers with combo/fallback and cache-aware routing |
+| MCP fleet | 58 declared MCP servers, gateway-mediated |
+| Context | Loom / IcyLoom context drawer + Osiris state governor |
+| Vectors | Qdrant 2560-dim (qwen3-embedding, CPU) |
+| Inference | LM Studio as last resort, 0 VRAM |
+
+Every project below is built, tested and documented on this environment.
+
 ## MCP / AI PRODUCTS
+
 
 <table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/osiris"><img src="https://raw.githubusercontent.com/MlkBlk-IT/osiris/main/docs/mlkblk-banner-v2.svg" width="100%" alt="OSIRIS" /></a><br/><b><a href="https://github.com/MlkBlk-IT/osiris">OSIRIS</a></b><br/>Cache-aware context engine, lossless pruning and prefix integrity.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Hybrid MCP gateway for local and cloud workflows.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>Multi-provider gateway and cache.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable context layer for hybrid MCP workflows.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/ViaRoma/main/docs/mlkblk-banner.svg" width="100%" alt="ViaRoma" /></a><br/><b><a href="https://github.com/MlkBlk-IT/ViaRoma">ViaRoma</a></b> · <i>alpha</i><br/>Free-model router and MCP server. Not production-ready.</td></tr></table>
 
