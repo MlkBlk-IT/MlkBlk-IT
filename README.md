@@ -8,7 +8,7 @@
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=fbbc04&labelColor=0b1f4d" alt="profile views" />
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-11-ea4335?style=flat-square&labelColor=0b1f4d" alt="repos" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-12-ea4335?style=flat-square&labelColor=0b1f4d" alt="repos" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-34a853?style=flat-square&labelColor=0b1f4d" alt="CPU-first, 0 GPU" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-4285f4?style=flat-square&labelColor=0b1f4d" alt="open to internships" /></a>
 
@@ -16,17 +16,17 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v4.svg" width="100%" alt="MLKBLK-IT project portfolio — OSIRIS featured" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v2.svg" width="100%" alt="New release: OSIRIS v1.0.0" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v2.svg" width="100%" alt="New release: OSIRIS v0.1.0" /></div>
 
 ## NEW RELEASE
 
-**[OSIRIS v1.0.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
+**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
 
 PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybrid workflows.
 
 | Project | GitHub | Description | Status |
 |---|---|---|---|
-| OSIRIS | [repo](https://github.com/MlkBlk-IT/osiris) | Cache-aware context engine & state governor (+71% net prompt savings) | Production ready |
+| OSIRIS | [repo](https://github.com/MlkBlk-IT/osiris) | Cache-aware context engine & state governor (+71% net prompt savings) | v0.1.0 · PyPI · npm · MCP Registry |
 | IcyLoom | [release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0) | Hybrid MCP gateway: cache, context drawer, tool relay | v1.0.0 |
 | IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | Multi-provider gateway and cache | v0.3.2 |
 | Loom | [releases](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases) | Portable context layer for hybrid MCP workflows | v0.1.3 |
