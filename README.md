@@ -14,7 +14,7 @@
 
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v5.svg" width="100%" alt="MLKBLK-IT project portfolio — HERMES flagship, OSIRIS featured" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v6.svg" width="100%" alt="MLKBLK-IT project portfolio — HERMES flagship, OSIRIS featured" /></div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v2.svg" width="100%" alt="New release: OSIRIS v0.1.0" /></div>
 
