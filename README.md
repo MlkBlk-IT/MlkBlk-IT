@@ -6,11 +6,11 @@
 <p><strong>AI builder · IT support · cybersecurity · local + cloud systems</strong></p>
 <p>Montreal, Quebec · French / English · self-taught by building, testing and documenting.</p>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=2de2ff&labelColor=0d0a2b" alt="followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=8a5bff&labelColor=0d0a2b" alt="profile views" />
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-11-ff5fa2?style=flat-square&labelColor=0d0a2b" alt="repos" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-2de2ff?style=flat-square&labelColor=0d0a2b" alt="CPU-first, 0 GPU" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-8a5bff?style=flat-square&labelColor=0d0a2b" alt="open to internships" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&label=profile%20views&style=flat-square&color=fbbc04&labelColor=0b1f4d" alt="profile views" />
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/repos-11-ea4335?style=flat-square&labelColor=0b1f4d" alt="repos" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-34a853?style=flat-square&labelColor=0b1f4d" alt="CPU-first, 0 GPU" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-4285f4?style=flat-square&labelColor=0b1f4d" alt="open to internships" /></a>
 
 </div>
 
@@ -62,8 +62,8 @@ Internships, apprenticeships and practical open-source collaboration in Montreal
 
 <div align="center">
 
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20repos-2de2ff?style=for-the-badge&labelColor=0d0a2b" alt="view all repos" /></a>
-<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/MLKBLK--IT-ff5fa2?style=for-the-badge&labelColor=0d0a2b" alt="MLKBLK-IT" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/view%20all%20repos-4285f4?style=for-the-badge&labelColor=0b1f4d" alt="view all repos" /></a>
+<a href="https://github.com/MlkBlk-IT"><img src="https://img.shields.io/badge/MLKBLK--IT-fbbc04?style=for-the-badge&labelColor=0b1f4d" alt="MLKBLK-IT" /></a>
 
 <br/><br/>
 <sub>Built and documented by <strong>MLKBLK-IT</strong>.</sub>
