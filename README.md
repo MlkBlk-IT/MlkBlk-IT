@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/hermes-banner.svg" width="100%" alt="MLKBLK-IT — AI builder: MCP, CPU-only LLMs, security, homelab" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="MLKBLK-IT — AI builder: MCP, CPU-only LLMs, security, homelab" /></p>
 
 <h1>MLKBLK</h1>
 <p><strong>AI builder · IT support · cybersecurity · local + cloud systems</strong></p>
