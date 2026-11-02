@@ -12,22 +12,114 @@
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-34a853?style=flat-square&labelColor=0b1f4d" alt="CPU-first, 0 GPU" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-4285f4?style=flat-square&labelColor=0b1f4d" alt="open to internships" /></a>
 
-</div>
+</div>
+
+---
+
+## 🚀 ANNOUNCEMENT — IcyLoom V2 ships this week
+
+**One MCP server. One SQLite file. One ledger that tells you what it actually saved — and now a governed registry in front of every tool.**
+
+| **188** tools indexed | **13** servers | **19** MCP tools | **182** tests | **+71.48 %** net savings | **0** embeddings |
+|---|---|---|---|---|---|
+
+**ICY-LOOM V2 — the MCP tool gateway.** Every tool catalogued (schema, intent, side effects, scope, risk), the right one selected from a plain-language request, permissions enforced, context compressed, every decision logged. The tagged release ships **this week**.
+
+→ [Read the V2 announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) · [repo](https://github.com/MlkBlk-IT/icy-loom) · [release notes](https://github.com/MlkBlk-IT/icy-loom/releases)
+
+---
+
+## HERO · ICY-LOOM V2
+
+<div align="center"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/icyloom-v2-banner.svg" width="100%" alt="IcyLoom V2 — the MCP tool gateway" /></a></div>
+
+**The MCP tool gateway.** One MCP server, one SQLite file, one ledger — with a governed registry in front of every tool. A client that can *see* a tool no longer gets to *use* it.
+
+| Metric | Measured |
+|---|---|
+| Tools indexed | **188** |
+| Servers behind the gateway | **13** |
+| MCP tools exposed | **19** — 13 from V1 + 6 meta-tools |
+| Read-only share | **69.1 %** — 130 tools |
+| Writes / destructive | 43 (22.9 %) / 15 (8.0 %) — destructive needs an explicit approval |
+| Decisions traced | **11** — 5 allowed · 5 approvals · 1 refused (outside project scope) |
+| Tokens saved by compression | **60 186** — 30 093 on a single `read_file` |
+| Tokens measured (7 days) | **427 289** |
+| Selection | lexical FTS5/BM25, **12 languages**, **no embeddings** |
+| Test suite | **182 passing** |
+
+<table>
+<tr><td width="50%" valign="top">
+<b>What V2 adds</b><br/><br/>
+• Tool registry: schema, intent, side effects, scope, risk<br/>
+• Dynamic selection from a natural-language request<br/>
+• Roles <code>reader</code> / <code>writer</code> / <code>operator</code> / <code>admin</code> + approvals<br/>
+• Schema &amp; result compression, prompt-cache safe<br/>
+• Sandboxed script runner<br/>
+• Decision audit trail + tokens-per-category metering
+</td><td width="50%" valign="top">
+<b>Install</b><br/><br/>
+<code>pip install -e .</code><br/>
+<code>python -m icyloom mcp --transport stdio</code><br/><br/>
+<b>Release</b><br/><br/>
+v2.0.0 — <b>this week</b><br/>
+MIT · Python 3.11 → 3.13 · 127.0.0.1 only
+</td></tr>
+</table>
+
+---
+
+## HERO · OSIRIS
+
+<div align="center"><a href="https://github.com/MlkBlk-IT/osiris"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/osiris-hero.svg" width="100%" alt="OSIRIS — cache-aware context engine and state governor" /></a></div>
+
+**The cache-aware context engine & state governor for AI agents.** Fewer tokens, fewer loops, zero unnecessary tools, zero loss of context.
+
+| Metric | Measured |
+|---|---|
+| Net prompt savings at 20 000 tokens | **+71.48 %** |
+| Net savings at 5 000 / 2 000 tokens | **+61.09 %** / **+41.99 %** |
+| Session Net Gate | **PASS** — worst case +972 tokens |
+| MCP tools | **6** — ~1 019 tokens of schema |
+| Test suite | **77 passing** |
+| Distribution | PyPI · npm · MCP Registry |
+
+<table>
+<tr><td width="50%" valign="top">
+<b>Core</b><br/><br/>
+• Sealed manifest carried by the agent (~120 tokens)<br/>
+• Prefix-stable hashing — the prompt cache holds<br/>
+• Invariants TOML rule engine (guard rails)<br/>
+• Tool Compass — dynamic relevance scoring<br/>
+• Executable handoff contracts
+</td><td width="50%" valign="top">
+<b>Install</b><br/><br/>
+<code>pip install mcp-osiris</code><br/>
+<code>npm i osiris-mcp</code><br/><br/>
+<b>Release</b><br/><br/>
+v0.1.0 · MIT · Python 3.12+<br/>
+Local-first · independent of any model provider
+</td></tr>
+</table>
+
+---
+
+
 
 <div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v6.svg" width="100%" alt="MLKBLK-IT project portfolio — HERMES flagship, OSIRIS featured" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v2.svg" width="100%" alt="New release: OSIRIS v0.1.0" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v3.svg" width="100%" alt="New release: IcyLoom V2" /></div>
 
 ## NEW RELEASE
 
-**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom v1.0.0](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0)** · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
+**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom v2.0.0](https://github.com/MlkBlk-IT/icy-loom/releases)** — ships this week · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
 
 PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybrid workflows.
 
 | Project | GitHub | Description | Status |
 |---|---|---|---|
 | OSIRIS | [repo](https://github.com/MlkBlk-IT/osiris) | Cache-aware context engine & state governor (+71% net prompt savings) | v0.1.0 · PyPI · npm · MCP Registry |
-| IcyLoom | [release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v1.0.0) | Hybrid MCP gateway: cache, context drawer, tool relay | v1.0.0 |
+| IcyLoom | [repo](https://github.com/MlkBlk-IT/icy-loom) | MCP tool gateway: registry, dynamic selection, policy, compression, audit | **v2.0.0 — this week** |
 | IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | Multi-provider gateway and cache | v0.3.2 |
 | Loom | [releases](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases) | Portable context layer for hybrid MCP workflows | v0.1.3 |
 
