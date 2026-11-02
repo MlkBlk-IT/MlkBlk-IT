@@ -12,8 +12,7 @@
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/CPU--first-0%20GPU-34a853?style=flat-square&labelColor=0b1f4d" alt="CPU-first, 0 GPU" /></a>
 <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-4285f4?style=flat-square&labelColor=0b1f4d" alt="open to internships" /></a>
 
-</div>
-
+</div>
 
 ---
 
@@ -48,8 +47,8 @@
 | Tokens measured (7 days) | **577 064** |
 | Selection | lexical FTS5/BM25, **12 languages**, **no embeddings** |
 | Test suite | **186 passing** |
-| Load pass | **40** real calls through the gateway — 0 error, **30** served from the local cache |
-| Hit rate under load | **75.6 %** — 102 hits / 28 misses, **254 536** tokens avoided, gain **92.1 %** |
+| Load pass | **40** real calls through the gateway - 0 error, **30** served from the local cache |
+| Hit rate under load | **75.6 %** - 102 hits / 28 misses, **254 536** tokens avoided, gain **92.1 %** |
 
 <table>
 <tr><td width="50%" valign="top">
