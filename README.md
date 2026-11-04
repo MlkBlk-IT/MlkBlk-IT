@@ -42,7 +42,7 @@
 
 ## HERO · ICY-LOOM V2
 
-<div align="center"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/icyloom-v2-banner.svg" width="100%" alt="IcyLoom V2 — the MCP tool gateway" /></a></div>
+<div align="center"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/icyloom-v2-banner-r2.svg" width="100%" alt="IcyLoom V2 — the MCP tool gateway" /></a></div>
 
 **The MCP tool gateway.** One MCP server, one SQLite file, one ledger — with a governed registry in front of every tool. A client that can *see* a tool no longer gets to *use* it.
 
@@ -119,13 +119,13 @@ Local-first · independent of any model provider
 
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v6.svg" width="100%" alt="MLKBLK-IT project portfolio — HERMES flagship, OSIRIS featured" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/project-grid-v7.svg" width="100%" alt="MLKBLK-IT project portfolio — HERMES flagship, OSIRIS featured" /></div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v3.svg" width="100%" alt="New release: IcyLoom V2" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/new-release-v4.svg" width="100%" alt="New release: IcyLoom V2" /></div>
 
 ## NEW RELEASE
 
-**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom V2](https://github.com/MlkBlk-IT/icy-loom)** (on main, not tagged yet) · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
+**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom V2](https://github.com/MlkBlk-IT/icy-loom)** (on main, not tagged yet) · **[IcyCache v0.4.0](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
 
 PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybrid workflows.
 
@@ -133,7 +133,7 @@ PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybri
 |---|---|---|---|
 | OSIRIS | [repo](https://github.com/MlkBlk-IT/osiris) | Cache-aware context engine & state governor (+71% net prompt savings) | v0.1.0 · PyPI · npm · MCP Registry |
 | IcyLoom | [repo](https://github.com/MlkBlk-IT/icy-loom) | MCP tool gateway: registry, dynamic selection, policy, compression, audit | V2 on `main`, not tagged yet |
-| IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | Multi-provider gateway and cache | v0.3.2 |
+| IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | Multi-provider gateway and cache | v0.4.0 |
 | Loom | [releases](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases) | Portable context layer for hybrid MCP workflows | v0.1.3 |
 
 ## FLAGSHIP: HERMES ENVIRONMENT
@@ -155,7 +155,7 @@ Every project below is built, tested and documented on this environment.
 ## MCP / AI PRODUCTS
 
 
-<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/osiris"><img src="https://raw.githubusercontent.com/MlkBlk-IT/osiris/main/docs/mlkblk-banner-v2.svg" width="100%" alt="OSIRIS" /></a><br/><b><a href="https://github.com/MlkBlk-IT/osiris">OSIRIS</a></b><br/>Cache-aware context engine, lossless pruning and prefix integrity.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Hybrid MCP gateway for local and cloud workflows.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>Multi-provider gateway and cache.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable context layer for hybrid MCP workflows.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/ViaRoma/main/docs/mlkblk-banner.svg" width="100%" alt="ViaRoma" /></a><br/><b><a href="https://github.com/MlkBlk-IT/ViaRoma">ViaRoma</a></b> · <i>alpha</i><br/>Free-model router and MCP server. Not production-ready.</td></tr></table>
+<table><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/osiris"><img src="https://raw.githubusercontent.com/MlkBlk-IT/osiris/main/docs/mlkblk-banner-v2.svg" width="100%" alt="OSIRIS" /></a><br/><b><a href="https://github.com/MlkBlk-IT/osiris">OSIRIS</a></b><br/>Cache-aware context engine, lossless pruning and prefix integrity.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icy-loom/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyLoom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icy-loom">IcyLoom</a></b><br/>Hybrid MCP gateway for local and cloud workflows.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/icycache"><img src="https://raw.githubusercontent.com/MlkBlk-IT/icycache/main/docs/mlkblk-banner-v2.svg" width="100%" alt="IcyCache" /></a><br/><b><a href="https://github.com/MlkBlk-IT/icycache">IcyCache</a></b><br/>Multi-provider gateway and cache.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp"><img src="https://raw.githubusercontent.com/MlkBlk-IT/mcp-loom-mcp/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Loom" /></a><br/><b><a href="https://github.com/MlkBlk-IT/mcp-loom-mcp">Loom</a></b><br/>Portable context layer for hybrid MCP workflows.</td></tr><tr><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Mcp-QadGraph/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Mcp-QadGraph" /></a><br/><b><a href="https://github.com/MlkBlk-IT/Mcp-QadGraph">Mcp-QadGraph</a></b><br/>Qdrant control plane and read-only MCP.</td><td width="50%" valign="top"><a href="https://github.com/MlkBlk-IT/ViaRoma"><img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="ViaRoma" /></a><br/><b><a href="https://github.com/MlkBlk-IT/ViaRoma">ViaRoma</a></b> · <i>alpha</i><br/>Free-model router and MCP server. Not production-ready.</td></tr></table>
 
 ## DOC / RESEARCH / COMMUNITY
 
