@@ -11,7 +11,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 <br/>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMlkBlk-IT&query=%24.public_repos&label=public%20repos&style=flat-square&color=ea4335&labelColor=0b1f4d" alt="public repos" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-194-34a853?style=flat-square&labelColor=0b1f4d" alt="194 tools indexed" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-223-4285f4?style=flat-square&labelColor=0b1f4d" alt="223 tests" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMlkBlk-IT&query=%24.public_repos&label=public%20repos&style=flat-square&color=ea4335&labelColor=0b1f4d" alt="public repos" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-194-34a853?style=flat-square&labelColor=0b1f4d" alt="194 tools indexed" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-232-4285f4?style=flat-square&labelColor=0b1f4d" alt="232 tests" /></a>
 
 </div>
 
@@ -21,6 +21,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 | Date | Project | What shipped |
 |---|---|---|
+| **2026-11-04** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.1.0** | Trust signals on the relay: MCP annotations are read (they can only escalate a side effect), a changed tool definition is journalised in `tool_drift`, a structured result is checked against its declared `outputSchema`, and a result carrying an injection is flagged instead of being served silently. Two new meta-tools, `tool_drift` and `tool_simulate`, and a new **Trust signals** panel in the console. [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.1.0) |
 | **2026-11-03** | **[IcyCache](https://github.com/MlkBlk-IT/icycache) v0.4.0** | The semantic cache is now multilingual: 24 language profiles, no language hardcoded in the source, 84 tests. [Release](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0) |
 | **2026-11-03** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2** | The MCP tool gateway: governed registry, plain-language tool selection, roles + approvals, compressed schemas, full audit trail. Released as v2.0.0. [Announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) |
 | **2026-11-03** | **[Osiris](https://github.com/MlkBlk-IT/osiris)** | v0.1.1 released on GitHub (PyPI and npm still at 0.1.0). |
@@ -29,7 +30,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 | 🧰 Tools indexed | 🖥️ MCP servers | 🔌 MCP tools exposed | ✅ Tests (IcyLoom) | 🌍 Languages (IcyCache) |
 |:---:|:---:|:---:|:---:|:---:|
-| **194** | **14** | **19** | **223** | **24** |
+| **194** | **14** | **21** | **232** | **24** |
 
 IcyLoom V2 figures from the repo (tests collected, not re-run for this page). Osiris: **+71.48 %** net prompt savings at 20 000 tokens, 6 MCP tools.
 
