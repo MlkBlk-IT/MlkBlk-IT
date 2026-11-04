@@ -22,21 +22,21 @@
 | Date | Project | What shipped |
 |---|---|---|
 | **2026-11-03** | **[IcyCache](https://github.com/MlkBlk-IT/icycache) v0.4.0** | The semantic cache is now **multilingual** — 24 language profiles, tokenisation per script, three casing models, **no language hardcoded in the source**. `pytest tests/` runs again (**84 tests**). [release](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0) |
-| **2026-11-03** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2** | The MCP tool gateway: a governed registry in front of every tool, selection from a plain-language request, roles + approvals, compressed schemas, full decision audit, system tray. **194 tools · 14 servers · 19 MCP tools · 186 tests.** [announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) |
+| **2026-11-03** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2** | The MCP tool gateway: a governed registry in front of every tool, selection from a plain-language request, roles + approvals, compressed schemas, full decision audit, system tray. **194 tools · 14 servers · 19 MCP tools · 223 tests.** [announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) |
 | **2026-11-01** | **[ViaRoma](https://github.com/MlkBlk-IT/ViaRoma)** | The egress exit is now **chosen by the user**: `providers/connect` takes a `proxy_url`, the SOCKS5 probe moved to the standard library, the dashboard gained an exit chooser, security hardening D1–D6 landed. [repo](https://github.com/MlkBlk-IT/ViaRoma) |
 
 ---
 
-## 🚀 ANNOUNCEMENT — IcyLoom V2 ships this week
+## 🚀 ANNOUNCEMENT — IcyLoom V2 is on main
 
 **One MCP server. One SQLite file. One ledger that tells you what it actually saved — and now a governed registry in front of every tool.**
 
-| **194** tools indexed | **14** servers | **19** MCP tools | **186** tests | **+71.48 %** net savings | **0** embeddings |
+| **194** tools indexed | **14** servers | **19** MCP tools | **223** tests | **+71.48 %** net savings | **0** embeddings |
 |---|---|---|---|---|---|
 
-**ICY-LOOM V2 — the MCP tool gateway.** Every tool catalogued (schema, intent, side effects, scope, risk), the right one selected from a plain-language request, permissions enforced, context compressed, every decision logged. The tagged release ships **this week**.
+**ICY-LOOM V2 — the MCP tool gateway.** Every tool catalogued (schema, intent, side effects, scope, risk), the right one selected from a plain-language request, permissions enforced, context compressed, every decision logged. V2 is on `main`; the tagged release is not published yet.
 
-→ [Read the V2 announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) · [repo](https://github.com/MlkBlk-IT/icy-loom) · [release notes](https://github.com/MlkBlk-IT/icy-loom/releases)
+→ [Read the V2 announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) · [repo](https://github.com/MlkBlk-IT/icy-loom) · [releases](https://github.com/MlkBlk-IT/icy-loom/releases)
 
 ---
 
@@ -57,9 +57,9 @@
 | Tokens saved by tool compression | **118 654** — real tokens (tiktoken) |
 | Tokens measured (window) | **837 431** — 812 407 in tool schemas, 25 024 in tool results |
 | Selection | lexical FTS5/BM25, **12 languages**, **no embeddings** |
-| Test suite | **186 passing** |
+| Test suite | **223 tests collected** |
 | Load pass | **40** real calls through the gateway - 0 error, **30** served from the local cache |
-| Hit rate under load | **78.5 %** - 102 hits / 28 misses (13 errors excluded), **373 190** tokens avoided, gain **93.7 %** |
+| Hit rate under load | **78.5 %** - 102 hits / 28 misses (13 errors excluded), **373 190** tokens avoided, gain **48.4 %** |
 
 <table>
 <tr><td width="50%" valign="top">
@@ -75,7 +75,7 @@
 <code>pip install -e .</code><br/>
 <code>python -m icyloom mcp --transport stdio</code><br/><br/>
 <b>Release</b><br/><br/>
-v2.0.0 — <b>this week</b><br/>
+V2: <b>on <code>main</code>, not tagged yet</b><br/>
 MIT · Python 3.11 → 3.13 · 127.0.0.1 only
 </td></tr>
 </table>
@@ -125,14 +125,14 @@ Local-first · independent of any model provider
 
 ## NEW RELEASE
 
-**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom v2.0.0](https://github.com/MlkBlk-IT/icy-loom/releases)** — ships this week · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
+**[OSIRIS v0.1.0](https://github.com/MlkBlk-IT/osiris)** · **[IcyLoom V2](https://github.com/MlkBlk-IT/icy-loom)** (on main, not tagged yet) · **[IcyCache v0.3.2](https://github.com/MlkBlk-IT/icycache/releases)** · **[Loom v0.1.3](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases)**
 
 PyPI + npm + GitHub releases · MCP-ready · CPU-first · local, cloud and hybrid workflows.
 
 | Project | GitHub | Description | Status |
 |---|---|---|---|
 | OSIRIS | [repo](https://github.com/MlkBlk-IT/osiris) | Cache-aware context engine & state governor (+71% net prompt savings) | v0.1.0 · PyPI · npm · MCP Registry |
-| IcyLoom | [repo](https://github.com/MlkBlk-IT/icy-loom) | MCP tool gateway: registry, dynamic selection, policy, compression, audit | **v2.0.0 — this week** |
+| IcyLoom | [repo](https://github.com/MlkBlk-IT/icy-loom) | MCP tool gateway: registry, dynamic selection, policy, compression, audit | V2 on `main`, not tagged yet |
 | IcyCache | [releases](https://github.com/MlkBlk-IT/icycache/releases) | Multi-provider gateway and cache | v0.3.2 |
 | Loom | [releases](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases) | Portable context layer for hybrid MCP workflows | v0.1.3 |
 
