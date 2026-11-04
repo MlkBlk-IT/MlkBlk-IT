@@ -21,6 +21,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 | Date | Project | What shipped |
 |---|---|---|
+| **2026-11-04** | **[hermes-environment](https://github.com/MlkBlk-IT/hermes-environment) setup ops** | Versioned setup (redacted), weekly backup (Mon 03:00), 3 profiles + Kanban, 5-min liveness alert. Details: [docs/08](https://github.com/MlkBlk-IT/hermes-environment/blob/master/docs/08-setup-ops-2026-11-04.md) |
 | **2026-11-04** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.1.0** | Trust signals on the relay: MCP annotations are read (they can only escalate a side effect), a changed tool definition is journalised in `tool_drift`, a structured result is checked against its declared `outputSchema`, and a result carrying an injection is flagged instead of being served silently. Two new meta-tools, `tool_drift` and `tool_simulate`, and a new **Trust signals** panel in the console. [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.1.0) |
 | **2026-11-03** | **[IcyCache](https://github.com/MlkBlk-IT/icycache) v0.4.0** | The semantic cache is now multilingual: 24 language profiles, no language hardcoded in the source, 84 tests. [Release](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0) |
 | **2026-11-03** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2** | The MCP tool gateway: governed registry, plain-language tool selection, roles + approvals, compressed schemas, full audit trail. Released as v2.0.0. [Announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) |
