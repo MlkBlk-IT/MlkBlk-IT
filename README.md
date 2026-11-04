@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v2.svg" width="100%" alt="MLKBLK - AI builder: MCP, CPU-only LLMs, security, homelab" />
+<img src="https://raw.githubusercontent.com/MlkBlk-IT/MlkBlk-IT/main/assets/mlkblk-banner-v3.svg" width="100%" alt="MLKBLK - AI builder: MCP, CPU-only LLMs, security, homelab" />
 
 <br/>
 
