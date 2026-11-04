@@ -22,8 +22,8 @@ I build local-first AI infrastructure and security labs, and I document every re
 | Date | Project | What shipped |
 |---|---|---|
 | **2026-11-03** | **[IcyCache](https://github.com/MlkBlk-IT/icycache) v0.4.0** | The semantic cache is now multilingual: 24 language profiles, no language hardcoded in the source, 84 tests. [Release](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0) |
-| **2026-11-03** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2** | The MCP tool gateway: governed registry, plain-language tool selection, roles + approvals, compressed schemas, full audit trail. On `main`, not tagged yet. [Announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) |
-| **2026-11-03** | **[Osiris](https://github.com/MlkBlk-IT/osiris)** | Version 0.1.1 on `main`. Latest tag: v0.1.0. |
+| **2026-11-03** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2** | The MCP tool gateway: governed registry, plain-language tool selection, roles + approvals, compressed schemas, full audit trail. Released as v2.0.0. [Announcement](https://github.com/MlkBlk-IT/icy-loom/blob/main/ANNOUNCEMENT.md) |
+| **2026-11-03** | **[Osiris](https://github.com/MlkBlk-IT/osiris)** | v0.1.1 released on GitHub (PyPI and npm still at 0.1.0). |
 
 ## 📊 By the numbers
 
@@ -32,6 +32,15 @@ I build local-first AI infrastructure and security labs, and I document every re
 | **194** | **14** | **19** | **223** | **24** |
 
 IcyLoom V2 figures from the repo (tests collected, not re-run for this page). Osiris: **+71.48 %** net prompt savings at 20 000 tokens, 6 MCP tools.
+
+## Latest releases
+
+<!-- releases:start -->
+- `2026-11-04` **[osiris](https://github.com/MlkBlk-IT/osiris/releases/tag/v0.1.1)** v0.1.1
+- `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.0.0)** v2.0.0
+- `2026-11-03` **[icycache](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0)** v0.4.0
+- `2026-10-26` **[mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases/tag/v0.1.3)** v0.1.3
+<!-- releases:end -->
 
 ## What I do
 
