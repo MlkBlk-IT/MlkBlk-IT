@@ -7,17 +7,11 @@
 **IT student in Montréal · French / English**<br/>
 I build local-first AI infrastructure and security labs, and I document every result honestly.
 
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-34a853?style=for-the-badge&labelColor=0b1f4d" alt="open to internships" /></a>
-<img src="https://img.shields.io/badge/Montr%C3%A9al-QC-4285f4?style=for-the-badge&labelColor=0b1f4d" alt="Montréal, QC" />
-<img src="https://img.shields.io/badge/Security%20%C2%B7%20AI%20%C2%B7%20Cloud-fbbc04?style=for-the-badge&labelColor=0b1f4d" alt="Security, AI, Cloud" />
+<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/open%20to-internships-34a853?style=for-the-badge&labelColor=0b1f4d" alt="open to internships" /></a> <img src="https://img.shields.io/badge/Montr%C3%A9al-QC-4285f4?style=for-the-badge&labelColor=0b1f4d" alt="Montréal, QC" /> <img src="https://img.shields.io/badge/Security%20%C2%B7%20AI%20%C2%B7%20Cloud-fbbc04?style=for-the-badge&labelColor=0b1f4d" alt="Security, AI, Cloud" />
 
 <br/>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMlkBlk-IT&query=%24.public_repos&label=public%20repos&style=flat-square&color=ea4335&labelColor=0b1f4d" alt="public repos" /></a>
-<a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a>
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-194-34a853?style=flat-square&labelColor=0b1f4d" alt="194 tools indexed" /></a>
-<a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-223-4285f4?style=flat-square&labelColor=0b1f4d" alt="223 tests" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMlkBlk-IT&query=%24.public_repos&label=public%20repos&style=flat-square&color=ea4335&labelColor=0b1f4d" alt="public repos" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-194-34a853?style=flat-square&labelColor=0b1f4d" alt="194 tools indexed" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-223-4285f4?style=flat-square&labelColor=0b1f4d" alt="223 tests" /></a>
 
 </div>
 
@@ -77,15 +71,7 @@ IcyLoom V2 figures from the repo (tests collected, not re-run for this page). Os
 
 ## Toolbox
 
-<img src="https://img.shields.io/badge/Python-4285f4?style=flat-square&logo=python&logoColor=white&labelColor=0b1f4d" alt="Python" />
-<img src="https://img.shields.io/badge/PowerShell-4285f4?style=flat-square&logo=powershell&logoColor=white&labelColor=0b1f4d" alt="PowerShell" />
-<img src="https://img.shields.io/badge/JavaScript-fbbc04?style=flat-square&logo=javascript&logoColor=white&labelColor=0b1f4d" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQLite-34a853?style=flat-square&logo=sqlite&logoColor=white&labelColor=0b1f4d" alt="SQLite" />
-<img src="https://img.shields.io/badge/MCP-ea4335?style=flat-square&labelColor=0b1f4d" alt="MCP" />
-<img src="https://img.shields.io/badge/Qdrant-ea4335?style=flat-square&labelColor=0b1f4d" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Hyper--V-4285f4?style=flat-square&labelColor=0b1f4d" alt="Hyper-V" />
-<img src="https://img.shields.io/badge/Windows%20Server-34a853?style=flat-square&labelColor=0b1f4d" alt="Windows Server" />
-<img src="https://img.shields.io/badge/Linux-fbbc04?style=flat-square&logo=linux&logoColor=white&labelColor=0b1f4d" alt="Linux" />
+<img src="https://img.shields.io/badge/Python-4285f4?style=flat-square&logo=python&logoColor=white&labelColor=0b1f4d" alt="Python" /> <img src="https://img.shields.io/badge/PowerShell-4285f4?style=flat-square&logo=powershell&logoColor=white&labelColor=0b1f4d" alt="PowerShell" /> <img src="https://img.shields.io/badge/JavaScript-fbbc04?style=flat-square&logo=javascript&logoColor=white&labelColor=0b1f4d" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQLite-34a853?style=flat-square&logo=sqlite&logoColor=white&labelColor=0b1f4d" alt="SQLite" /> <img src="https://img.shields.io/badge/MCP-ea4335?style=flat-square&labelColor=0b1f4d" alt="MCP" /> <img src="https://img.shields.io/badge/Qdrant-ea4335?style=flat-square&labelColor=0b1f4d" alt="Qdrant" /> <img src="https://img.shields.io/badge/Hyper--V-4285f4?style=flat-square&labelColor=0b1f4d" alt="Hyper-V" /> <img src="https://img.shields.io/badge/Windows%20Server-34a853?style=flat-square&labelColor=0b1f4d" alt="Windows Server" /> <img src="https://img.shields.io/badge/Linux-fbbc04?style=flat-square&logo=linux&logoColor=white&labelColor=0b1f4d" alt="Linux" />
 
 ## How I work
 
