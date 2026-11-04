@@ -21,6 +21,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 | Date | Project | What shipped |
 |---|---|---|
+| **2026-11-04** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.2.0** | Fail-closed relay: unknown tools are denied by default, `tool_simulate` now matches `invoke_tool`, `pwsh` is classified by the command, every server shows its real status (up/down/no-tools + last error), schema-drift noise purged (910 cosmetic entries), cache metrics really recorded, and the catalogue reaches **50 MCP servers**. [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.0) |
 | **2026-11-04** | **[hermes-environment](https://github.com/MlkBlk-IT/hermes-environment) setup ops** | Versioned setup (redacted), weekly backup (Mon 03:00), 3 profiles + Kanban, 5-min liveness alert. Details: [docs/08](https://github.com/MlkBlk-IT/hermes-environment/blob/master/docs/08-setup-ops-2026-11-04.md) |
 | **2026-11-04** | **[Loom (mcp-loom-mcp)](https://github.com/MlkBlk-IT/mcp-loom-mcp) dashboard v4** | Dashboard rewritten: brighter glass UI, simplified panels with side drawers, simple canvas charts, new **Quickstart / How-to / Help** docs in English. Fixed a dashboard-killing JS syntax error and SSE CORS headers. See [PROGRESS.md §12](https://github.com/MlkBlk-IT/mcp-loom-mcp/blob/main/PROGRESS.md) · [UPDATE-NOTES.md](https://github.com/MlkBlk-IT/mcp-loom-mcp/blob/main/UPDATE-NOTES.md) |
 | **2026-11-04** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.1.0** | Trust signals on the relay: MCP annotations are read (they can only escalate a side effect), a changed tool definition is journalised in `tool_drift`, a structured result is checked against its declared `outputSchema`, and a result carrying an injection is flagged instead of being served silently. Two new meta-tools, `tool_drift` and `tool_simulate`, and a new **Trust signals** panel in the console. [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.1.0) |
@@ -39,6 +40,7 @@ IcyLoom V2 figures from the repo (tests collected, not re-run for this page). Os
 ## Latest releases
 
 <!-- releases:start -->
+- `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.0)** v2.2.0
 - `2026-11-04` **[osiris](https://github.com/MlkBlk-IT/osiris/releases/tag/v0.1.1)** v0.1.1
 - `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.1.0)** v2.1.0
 - `2026-11-03` **[icycache](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0)** v0.4.0
