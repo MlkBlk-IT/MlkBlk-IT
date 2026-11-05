@@ -42,7 +42,6 @@ IcyLoom V2 figures: **222 tools indexed across 16 servers** (18 active entries i
 ## Latest releases
 
 <!-- releases:start -->
-- `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.0)** v2.2.0
 - `2026-11-04` **[osiris](https://github.com/MlkBlk-IT/osiris/releases/tag/v0.1.1)** v0.1.1
 - `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.1.0)** v2.1.0
 - `2026-11-03` **[icycache](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0)** v0.4.0
