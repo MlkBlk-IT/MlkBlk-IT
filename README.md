@@ -13,6 +13,9 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 <a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-13-2ea44f?style=flat-square&labelColor=0b1f4d" alt="13 public repos" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-222-34a853?style=flat-square&labelColor=0b1f4d" alt="222 tools indexed" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-248-4285f4?style=flat-square&labelColor=0b1f4d" alt="248 tests" /></a>
 
+<br/>
+<img src="https://profile-counter.glitch.me/MlkBlk-IT/count.svg" alt="Visitor count" />
+
 </div>
 
 ---
