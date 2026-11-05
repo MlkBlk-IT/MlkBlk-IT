@@ -11,7 +11,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 <br/>
 
-<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-13-2ea44f?style=flat-square&labelColor=0b1f4d" alt="13 public repos" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-222-34a853?style=flat-square&labelColor=0b1f4d" alt="222 tools indexed" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-248-4285f4?style=flat-square&labelColor=0b1f4d" alt="248 tests" /></a>
+<a href="https://github.com/MlkBlk-IT?tab=followers"><img src="https://img.shields.io/github/followers/MlkBlk-IT?label=followers&style=flat-square&color=4285f4&labelColor=0b1f4d" alt="followers" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-13-2ea44f?style=flat-square&labelColor=0b1f4d" alt="13 public repos" /></a> <a href="https://github.com/MlkBlk-IT?tab=repositories"><img src="https://img.shields.io/badge/stars-13-fbbc04?style=flat-square&labelColor=0b1f4d" alt="stars" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/MCP%20tools%20indexed-222-34a853?style=flat-square&labelColor=0b1f4d" alt="222 tools indexed" /></a> <a href="https://github.com/MlkBlk-IT/icy-loom"><img src="https://img.shields.io/badge/tests-251-4285f4?style=flat-square&labelColor=0b1f4d" alt="248 tests" /></a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=MlkBlk-IT&style=flat-square&color=4285f4&label=Visitor+count&labelColor=0b1f4d" alt="Visitor count" />
@@ -25,6 +25,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 | Date | Project | What shipped |
 |---|---|---|
 | **2026-11-04** | **[Osiris](https://github.com/MlkBlk-IT/osiris) 4-bug fix** | LoopGuard escalates (warn 3 / block 5, precheck denies), structured plan constraints enforced, handoff ref leak removed, honest unverified integrity, dashboard shows UNVERIFIED instead of a fake VIOLATION. 124 tests passed. [Commit](https://github.com/MlkBlk-IT/osiris/commit/50cef21) |
+| **2026-11-05** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.2.1** | Patch release: `ledger.daily()` fixed (was grouping by a non-existent SQLite function), stream disconnects now trip the breaker and never cache a truncated response, `migrate.py` column mapping is idempotent, and `token_tool_results` ledger rows finally carry their real compaction `tokens_saved`. **248 passed, 3 skipped, 0 failed.** [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.1) |
 | **2026-11-04** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.2.0** | Fail-closed relay: unknown tools are denied by default, `tool_simulate` now matches `invoke_tool`, `pwsh` is classified by the command, every server shows its real status (up/down/no-tools + last error), schema-drift noise purged (910 cosmetic entries), cache metrics really recorded, the catalogue reaches **102 server entries** (18 active, 84 dormant) with a pager and a real per-server Tester, and the console now shows a **live economy metric** re-queried from SQLite every second — summed over disjoint domains, so the headline and the registry card finally agree. [Changelog](https://github.com/MlkBlk-IT/icy-loom/blob/main/CHANGELOG.md) |
 | **2026-11-04** | **[hermes-environment](https://github.com/MlkBlk-IT/hermes-environment) setup ops** | Versioned setup (redacted), weekly backup (Mon 03:00), 3 profiles + Kanban, 5-min liveness alert. Details: [docs/08](https://github.com/MlkBlk-IT/hermes-environment/blob/master/docs/08-setup-ops-2026-11-04.md) |
 | **2026-11-04** | **[Loom (mcp-loom-mcp)](https://github.com/MlkBlk-IT/mcp-loom-mcp) dashboard v4** | Dashboard rewritten: brighter glass UI, simplified panels with side drawers, simple canvas charts, new **Quickstart / How-to / Help** docs in English. Fixed a dashboard-killing JS syntax error and SSE CORS headers. See [PROGRESS.md §12](https://github.com/MlkBlk-IT/mcp-loom-mcp/blob/main/PROGRESS.md) · [UPDATE-NOTES.md](https://github.com/MlkBlk-IT/mcp-loom-mcp/blob/main/UPDATE-NOTES.md) |
@@ -37,14 +38,15 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 | 🧰 Tools indexed | 🖥️ MCP servers | 🔌 MCP tools exposed | ✅ Tests (IcyLoom) | 🌍 Languages (IcyCache) |
 |:---:|:---:|:---:|:---:|:---:|
-| **222** | **16** | **21** | **248** | **24** |
+| **222** | **16** | **21** | **251** | **24** |
 
-IcyLoom V2 figures: **222 tools indexed across 16 servers** (18 active entries in `tool_proxy.servers`, 84 dormant in `tool_proxy.catalog`), **21 tools exposed** by the MCP server, **248 tests collected** — 245 passed, 3 skipped, 0 failed (suite re-run locally, exit 0). Osiris: **+71.48 %** net prompt savings at 20 000 tokens, 6 MCP tools.
+IcyLoom V2 figures: **222 tools indexed across 16 servers** (18 active entries in `tool_proxy.servers`, 84 dormant in `tool_proxy.catalog`), **21 tools exposed** by the MCP server, **251 tests collected** — 248 passed, 3 skipped, 0 failed (suite re-run locally, exit 0). Osiris: **+71.48 %** net prompt savings at 20 000 tokens, 6 MCP tools.
 
 ## Latest releases
 
 <!-- releases:start -->
 - `2026-11-04` **[osiris](https://github.com/MlkBlk-IT/osiris/releases/tag/v0.1.1)** v0.1.1
+- `2026-11-05` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.1)** v2.2.1
 - `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.0)** v2.2.0
 - `2026-11-03` **[icycache](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0)** v0.4.0
 - `2026-10-26` **[mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases/tag/v0.1.3)** v0.1.3
