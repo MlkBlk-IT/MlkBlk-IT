@@ -24,6 +24,7 @@ I build local-first AI infrastructure and security labs, and I document every re
 
 | Date | Project | What shipped |
 |---|---|---|
+| **2026-11-06** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.2.2 — now on PyPI and npm** | Distribution release: the wheel and the sdist are published on **PyPI** on every release (trusted publishing / OIDC — no token stored in the repo) and the CLI is published on **npm** with provenance. `pip install icyloom`, `pipx install icyloom`, `npm install -g icyloom`. Also ships the Hermes Agent plugin manifest (`plugin.yaml` + `register(ctx)`). **248 passed, 3 skipped, 0 failed.** [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.2) · [Announcement](https://github.com/MlkBlk-IT/icy-loom/discussions/4) |
 | **2026-11-05** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) Hermes plugin** | Packaged as a Hermes Agent plugin: `plugin.yaml` manifest, `register(ctx)` entrypoint declaring 21 MCP tools, catalog-ready for `hermes plugins install icyloom`. Validation passed. Free & open source (MIT). [Commit](https://github.com/MlkBlk-IT/icy-loom/commit/ec2ee3d8b2b5ca25da5b35f817f95fcf6675b2ac) |
 | **2026-11-05** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.2.1** | Patch release: `ledger.daily()` fixed (was grouping by a non-existent SQLite function), stream disconnects now trip the breaker and never cache a truncated response, `migrate.py` column mapping is idempotent, and `token_tool_results` ledger rows finally carry their real compaction `tokens_saved`. **248 passed, 3 skipped, 0 failed.** [Release](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.1) |
 | **2026-11-04** | **[IcyLoom](https://github.com/MlkBlk-IT/icy-loom) V2.2.0** | Fail-closed relay: unknown tools are denied by default, `tool_simulate` now matches `invoke_tool`, `pwsh` is classified by the command, every server shows its real status (up/down/no-tools + last error), schema-drift noise purged (910 cosmetic entries), cache metrics really recorded, the catalogue reaches **102 server entries** (18 active, 84 dormant) with a pager and a real per-server Tester, and the console now shows a **live economy metric** re-queried from SQLite every second — summed over disjoint domains, so the headline and the registry card finally agree. [Changelog](https://github.com/MlkBlk-IT/icy-loom/blob/main/CHANGELOG.md) |
@@ -41,13 +42,14 @@ I build local-first AI infrastructure and security labs, and I document every re
 |:---:|:---:|:---:|:---:|:---:|
 | **222** | **16** | **21** | **251** | **24** |
 
-IcyLoom V2 figures: **222 tools indexed across 16 servers** (18 active entries in `tool_proxy.servers`, 84 dormant in `tool_proxy.catalog`), **21 tools exposed** by the MCP server, **251 tests collected** — 248 passed, 3 skipped, 0 failed (suite re-run locally, exit 0). Osiris: **+71.48 %** net prompt savings at 20 000 tokens, 6 MCP tools.
+IcyLoom V2 figures: **222 tools indexed across 16 servers** (18 active entries in `tool_proxy.servers`, 84 dormant in `tool_proxy.catalog`), **21 tools exposed** by the MCP server, **251 tests collected** — 248 passed, 3 skipped, 0 failed (suite re-run locally, exit 0). Since V2.2.2 IcyLoom ships on **PyPI** (`pip install icyloom`) and **npm** (`npm install -g icyloom`, published with provenance) — both channels publish on every release. Osiris: **+71.48 %** net prompt savings at 20 000 tokens, 6 MCP tools.
 
 ## Latest releases
 
 <!-- releases:start -->
-- `2026-11-05` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.1)** v2.2.1
 - `2026-11-04` **[osiris](https://github.com/MlkBlk-IT/osiris/releases/tag/v0.1.1)** v0.1.1
+- `2026-11-05` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.1)** v2.2.1
+- `2026-11-04` **[icy-loom](https://github.com/MlkBlk-IT/icy-loom/releases/tag/v2.2.0)** v2.2.0
 - `2026-11-03` **[icycache](https://github.com/MlkBlk-IT/icycache/releases/tag/v0.4.0)** v0.4.0
 - `2026-10-26` **[mcp-loom-mcp](https://github.com/MlkBlk-IT/mcp-loom-mcp/releases/tag/v0.1.3)** v0.1.3
 <!-- releases:end -->
